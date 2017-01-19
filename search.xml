@@ -6,7 +6,8 @@
     <entry>
       <title><![CDATA[FactoCraft 大纲]]></title>
       <url>http://blog.cnenfu.com/2016/12/06/thoughts-of-the-factocraft-mod/</url>
-      <content type="html"><![CDATA[<h1 id="FactoCraft"><a href="#FactoCraft" class="headerlink" title="FactoCraft"></a>FactoCraft</h1><p>这是一个想要把Factorio立体化（所以选择了Minecraft）的Mod，目前名称是FactoCraft Mod，更多更新信息可以查看GitHub托管库<br>这是一篇没有完成的大纲,<br>如果有什么意见和建议，可以在下面的Disqus中回复，neko会尽快回复的www</p>
+      <content type="html"><![CDATA[<p>这是一个想要把Factorio立体化（所以选择了Minecraft）的Mod，目前名称是FactoCraft Mod，更多更新信息可以查看GitHub托管库<br>这是一篇没有完成的大纲,<br>如果有什么意见和建议，可以在下面的Disqus中回复，neko会尽快回复的www</p>
+<a id="more"></a>
 <h1 id="调整"><a href="#调整" class="headerlink" title="调整"></a>调整</h1><h2 id="矿物调整"><a href="#矿物调整" class="headerlink" title="矿物调整"></a>矿物调整</h2><p>是否添加部分bob mod的内容？<br>是否提升矿物的生成？<br>是否有办法可以提升矿物副产品产量？</p>
 <h2 id="物品调整"><a href="#物品调整" class="headerlink" title="物品调整"></a>物品调整</h2><h3 id="物流"><a href="#物流" class="headerlink" title="物流"></a>物流</h3><h4 id="传送带"><a href="#传送带" class="headerlink" title="传送带"></a>传送带</h4><p>在Minecraft世界里面地形是 有高有低 的，但是在Factorio的世界里面，整个地形都是平整的，但是neko考虑了一下，可以用这个方案来解决这个问题：</p>
 <p>在基本科技树中提供：基本传送带以及基础阶梯传送带（类似火车轨道）；<br>在高级科技树中提供：整地/平整地形工具（也可以包括在无人机拆除系统中提供），基础科技树的时候就使用阶梯传送带。<br>至于是否采用，只能看alpha版本的实际作用，当然可以后期更改，不是最终产品。<br>关于地下传送带，两种方案：同一高度只能存在同一范围内同一个方向的地下传送带；亦或是同一方向同一范围内，无论高度如何，只能同时存在一条地下传送带。</p>
