@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cnenfu.com/categories/index.html</loc>
+    
+    <lastmod>2017-01-19T15:39:53.101Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cnenfu.com/tags/index.html</loc>
+    
+    <lastmod>2017-01-19T15:39:01.968Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.cnenfu.com/2016/12/06/thoughts-of-the-factocraft-mod/</loc>
     
     <lastmod>2016-12-06T15:38:22.000Z</lastmod>
