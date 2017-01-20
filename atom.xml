@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cnenfu.com/"/>
-  <updated>2016-12-06T15:38:22.000Z</updated>
+  <updated>2017-01-20T15:59:22.000Z</updated>
   <id>http://blog.cnenfu.com/</id>
   
   <author>
@@ -16,9 +16,70 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>让你喜欢的画动起来~ （AE无插件需求）</title>
+    <link href="http://blog.cnenfu.com/2017/01/20/018-how-to-make-live2d/"/>
+    <id>http://blog.cnenfu.com/2017/01/20/018-how-to-make-live2d/</id>
+    <published>2017-01-20T15:59:22.000Z</published>
+    <updated>2017-01-20T15:59:22.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+    
+      <category term="AE" scheme="http://blog.cnenfu.com/tags/AE/"/>
+    
+      <category term="After Effects" scheme="http://blog.cnenfu.com/tags/After-Effects/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Elite Dangerous（精英危险）Reshade 3.0 设置</title>
+    <link href="http://blog.cnenfu.com/2017/01/19/017-reshade-guide-for-ed/"/>
+    <id>http://blog.cnenfu.com/2017/01/19/017-reshade-guide-for-ed/</id>
+    <published>2017-01-19T10:38:22.000Z</published>
+    <updated>2017-01-19T10:38:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Reshade是edfx的依赖程序，如果想要自己配置Elite Dangerous的画面/增强ED的画面，可以使用Reshade自身然后手动调整数值，自由度会相对高一些。</p>
+<p><img src="http://www.moepicx.cc/images/2017/01/19/3b80c3ed1f48c7d720d8bccbcf5b5680.jpg" alt=""></p>
+<a id="more"></a>
+<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><h2 id="对比图"><a href="#对比图" class="headerlink" title="对比图"></a>对比图</h2><p>先来看看对比图吧www<br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/3c8deaaa2e57527e669e9da3bd854841.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/3b80c3ed1f48c7d720d8bccbcf5b5680.jpg" alt=""><br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/63bf237d832347f7aadb9b328b2ab06a.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/bed337a4c00e3272db654e553e49ed58.jpg" alt=""><br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/04aef8df5bed2efcbfba297e029e0bbd.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/5c5dcaf35632a20227e6cbac1c9231cb.jpg" alt=""></p>
+<h2 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h2><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Reshade是edfx的依赖程序，如果想要自己配置Elite Dangerous的画面/增强ED的画面，可以使用Reshade自身然后手动调整数值，自由度会相对高一些。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/19/3b80c3ed1f48c7d720d8bccbcf5b5680.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Guide" scheme="http://blog.cnenfu.com/categories/Guide/"/>
+    
+    
+      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+    
+      <category term="Elite Dangerous" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous/"/>
+    
+      <category term="精英危险" scheme="http://blog.cnenfu.com/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
+    
+      <category term="Reshade" scheme="http://blog.cnenfu.com/tags/Reshade/"/>
+    
+      <category term="EDFX" scheme="http://blog.cnenfu.com/tags/EDFX/"/>
+    
+      <category term="Reshade 3.0" scheme="http://blog.cnenfu.com/tags/Reshade-3-0/"/>
+    
+      <category term="画面后期特效" scheme="http://blog.cnenfu.com/tags/%E7%94%BB%E9%9D%A2%E5%90%8E%E6%9C%9F%E7%89%B9%E6%95%88/"/>
+    
+      <category term="Graphic Post Effects" scheme="http://blog.cnenfu.com/tags/Graphic-Post-Effects/"/>
+    
+  </entry>
+  
+  <entry>
     <title>FactoCraft 大纲</title>
-    <link href="http://blog.cnenfu.com/2016/12/06/thoughts-of-the-factocraft-mod/"/>
-    <id>http://blog.cnenfu.com/2016/12/06/thoughts-of-the-factocraft-mod/</id>
+    <link href="http://blog.cnenfu.com/2016/12/06/016-thoughts-of-the-factocraft-mod/"/>
+    <id>http://blog.cnenfu.com/2016/12/06/016-thoughts-of-the-factocraft-mod/</id>
     <published>2016-12-06T15:38:22.000Z</published>
     <updated>2016-12-06T15:38:22.000Z</updated>
     
@@ -47,15 +108,15 @@
       <category term="Thoughts" scheme="http://blog.cnenfu.com/categories/Thoughts/"/>
     
     
-      <category term="FactoCraft" scheme="http://blog.cnenfu.com/tags/FactoCraft/"/>
-    
-      <category term="Factorio" scheme="http://blog.cnenfu.com/tags/Factorio/"/>
-    
-      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
-    
       <category term="Java" scheme="http://blog.cnenfu.com/tags/Java/"/>
     
       <category term="Minecraft" scheme="http://blog.cnenfu.com/tags/Minecraft/"/>
+    
+      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
+    
+      <category term="FactoCraft" scheme="http://blog.cnenfu.com/tags/FactoCraft/"/>
+    
+      <category term="Factorio" scheme="http://blog.cnenfu.com/tags/Factorio/"/>
     
       <category term="Mod" scheme="http://blog.cnenfu.com/tags/Mod/"/>
     
@@ -67,8 +128,8 @@
   
   <entry>
     <title>就个人对LGBT的观点</title>
-    <link href="http://blog.cnenfu.com/2016/09/23/my-opinion-of-lgbt/"/>
-    <id>http://blog.cnenfu.com/2016/09/23/my-opinion-of-lgbt/</id>
+    <link href="http://blog.cnenfu.com/2016/09/23/015-my-opinion-of-lgbt/"/>
+    <id>http://blog.cnenfu.com/2016/09/23/015-my-opinion-of-lgbt/</id>
     <published>2016-09-23T14:38:22.000Z</published>
     <updated>2016-09-29T14:38:22.000Z</updated>
     
@@ -253,10 +314,73 @@ With whole brand new starts.
   </entry>
   
   <entry>
+    <title>原谅neko的歇斯底里</title>
+    <link href="http://blog.cnenfu.com/2016/06/05/014-please-forgive-me-for-what-ive-done/"/>
+    <id>http://blog.cnenfu.com/2016/06/05/014-please-forgive-me-for-what-ive-done/</id>
+    <published>2016-06-06T00:29:00.000Z</published>
+    <updated>2017-01-20T20:46:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/2eca31b9cd6615c9c7a3e5e3e128c69f.jpg" alt=""><br>如何面对自己啊。<br>原谅我的歇斯底里。</p>
+<p>抱歉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/2eca31b9cd6615c9c7a3e5e3e128c69f.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;如何面对自己啊。&lt;br&gt;原谅我的歇斯底里。&lt;/p&gt;
+&lt;p&gt;抱歉。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Neko" scheme="http://blog.cnenfu.com/categories/Neko/"/>
+    
+    
+      <category term="文字" scheme="http://blog.cnenfu.com/tags/%E6%96%87%E5%AD%97/"/>
+    
+      <category term="难过" scheme="http://blog.cnenfu.com/tags/%E9%9A%BE%E8%BF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好想哭...</title>
+    <link href="http://blog.cnenfu.com/2016/06/05/013-whether-i-should-choose-it/"/>
+    <id>http://blog.cnenfu.com/2016/06/05/013-whether-i-should-choose-it/</id>
+    <published>2016-06-05T22:30:20.000Z</published>
+    <updated>2017-01-20T20:44:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/beb8ac8145fa38f35ef6235cc7cd4ff5.jpg" alt=""></p>
+<p>真的…<br>真的好烦心…<br>好想离开这里…</p>
+<p>是时候迁徙了吗？<br>还是换个地方生存罢了…？<br>你们都还没有走…<br>希望不要走…<br>我也不想离开你们…<br>但是我似乎不得不离开这里…</p>
+<p>仅仅只是…<br>提前离开吧…？<br>以后还会见到你们吗？<br>我好害怕…<br>好害怕…</p>
+<p>真的好烦心…<br>不想待下去了…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/beb8ac8145fa38f35ef6235cc7cd4ff5.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;真的…&lt;br&gt;真的好烦心…&lt;br&gt;好想离开这里…&lt;/p&gt;
+&lt;p&gt;是时
+    
+    </summary>
+    
+      <category term="Neko" scheme="http://blog.cnenfu.com/categories/Neko/"/>
+    
+    
+      <category term="难过" scheme="http://blog.cnenfu.com/tags/%E9%9A%BE%E8%BF%87/"/>
+    
+      <category term="随笔" scheme="http://blog.cnenfu.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="发泄" scheme="http://blog.cnenfu.com/tags/%E5%8F%91%E6%B3%84/"/>
+    
+      <category term="人生" scheme="http://blog.cnenfu.com/tags/%E4%BA%BA%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Minecraft大型项目招人通告</title>
-    <link href="http://blog.cnenfu.com/2016/03/01/minecraft-project-annoncement/"/>
-    <id>http://blog.cnenfu.com/2016/03/01/minecraft-project-annoncement/</id>
-    <published>2016-03-01T19:35:30.000Z</published>
+    <link href="http://blog.cnenfu.com/2016/05/01/012-minecraft-project-annoncement/"/>
+    <id>http://blog.cnenfu.com/2016/05/01/012-minecraft-project-annoncement/</id>
+    <published>2016-05-01T18:35:30.000Z</published>
     <updated>2016-09-21T04:15:01.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"><a href="#【该项目不是Mod开发！不是地图建造！不是服务器维护！】" class="headerlink" title="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"></a>【该项目不是Mod开发！不是地图建造！不是服务器维护！】</h1><p>【不是Mod开发！】Minecraft的大型项目招人。你喜欢MC就来吧！你会Java就来吧！感兴趣的人加我好友或者Email联系我~不明白的东西我都会说清楚的。<br>[<img src="http://www.moepicx.cc/images/2016/05/02/b2b0bdb44760175a89fcf61e080571d9.jpg" alt="b2b0bdb44760175a89fcf61e080571d9.md.jpg"><br><em>不建议学业较重的小伙伴加入</em>。 和本人GitHub下integralloader repo有关系<br><a id="more"></a></p>
@@ -271,11 +395,11 @@ With whole brand new starts.
       <category term="Programming" scheme="http://blog.cnenfu.com/categories/Programming/"/>
     
     
-      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
-    
       <category term="Java" scheme="http://blog.cnenfu.com/tags/Java/"/>
     
       <category term="Minecraft" scheme="http://blog.cnenfu.com/tags/Minecraft/"/>
+    
+      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
     
       <category term="Minecraft Mod" scheme="http://blog.cnenfu.com/tags/Minecraft-Mod/"/>
     
@@ -284,9 +408,289 @@ With whole brand new starts.
   </entry>
   
   <entry>
+    <title>新设计的Logo =￣ω￣=</title>
+    <link href="http://blog.cnenfu.com/2016/04/16/011-new-logo-for-lonelystar/"/>
+    <id>http://blog.cnenfu.com/2016/04/16/011-new-logo-for-lonelystar/</id>
+    <published>2016-04-16T17:30:25.000Z</published>
+    <updated>2017-01-20T20:39:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e46575db0fe146fe5f9ca0440b30c6a0.png" alt=""><br>原版蓝色。<br>Original Blue</p>
+<a id="more"></a>
+<p>这个新图标其实是我在设计另一个图标的时候有灵感的，于是今天我几乎在所有社交网站上都更新了这个图标~要是哪个大佬能拉我进Dribbble就好了233333.<br>希望你们喜欢~~ 有6个版本~</p>
+<p><img src="http://www.moepicx.cc/images/2017/01/20/f8bb1bb583722d663ca2babde56ecb30.png" alt=""></p>
+<p>至于内在故事嘛……</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/e46575db0fe146fe5f9ca0440b30c6a0.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;原版蓝色。&lt;br&gt;Original Blue&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+      <category term="logo" scheme="http://blog.cnenfu.com/tags/logo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>YouTube的新Banner</title>
+    <link href="http://blog.cnenfu.com/2016/04/16/010-the-new-youtube-banner-2016/"/>
+    <id>http://blog.cnenfu.com/2016/04/16/010-the-new-youtube-banner-2016/</id>
+    <published>2016-04-16T16:04:40.000Z</published>
+    <updated>2017-01-20T20:38:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/d53a2010e409128d7bb1b1a07b73d57c.png" alt=""><br>YouTube频道终于迎来了自主版权的这一刻。<br>这是封面~ 依然是熟悉的扁平风星球设计加上全新的图标。<br>可以欢呼下~~~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/d53a2010e409128d7bb1b1a07b73d57c.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;YouTube频道终于迎来了自主版权的这一刻。&lt;br&gt;这是封面~ 依然是熟悉
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+      <category term="YouTube频道管理" scheme="http://blog.cnenfu.com/tags/YouTube%E9%A2%91%E9%81%93%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · V 女神·土星和她的卫星</title>
+    <link href="http://blog.cnenfu.com/2016/03/22/009-NGstyle-solar-design-series-05/"/>
+    <id>http://blog.cnenfu.com/2016/03/22/009-NGstyle-solar-design-series-05/</id>
+    <published>2016-03-23T05:10:58.000Z</published>
+    <updated>2017-01-20T20:20:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/b88d14d8671826e2075fc59285bb7419.jpg" alt=""><br>第二张就是土星啦～<br>【太阳系系列壁纸：女神·土星和她的卫星】<br>土星设计花了一晚上吧…光环也是做出来不好看删掉又重做。考察了大量资料发现土星的卫星大多数颜色都和月球一样，就只放上这三颗了。土卫二也好漂亮（所以设计成蓝色的）<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>感觉第二卫星都好好看的样子～<br>（我记得土星有62颗卫星，木星有63颗的样子？）<br>希望你们能喜欢～</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/b88d14d8671826e2075fc59285bb7419.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;第二张就是土星啦～&lt;br&gt;【太阳系系列壁纸：女神·土星和她的卫星】&lt;br&gt;土
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · IV 我们的守护神·木星和她的卫星</title>
+    <link href="http://blog.cnenfu.com/2016/03/22/008-NGstyle-solar-design-series-04/"/>
+    <id>http://blog.cnenfu.com/2016/03/22/008-NGstyle-solar-design-series-04/</id>
+    <published>2016-03-23T05:04:58.000Z</published>
+    <updated>2017-01-20T20:13:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/3b5aa4e3b6e23bffd5b2b9a65ea0769a.jpg" alt=""></p>
+<p>时隔三天没有发布新的太阳系系列壁纸，今天来两发。这个是第一张：<br>【太阳系系列壁纸：我们的守护神·木星和她的卫星】<br>木星设计花了我好久…不知道这样的设计你们喜不喜欢，原本是有一个大红斑的，但是贴上去之后发现效果不好就删掉了。<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>木星的卫星真的是好好看（现实世界里最爱木卫二）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/3b5aa4e3b6e23bffd5b2b9a65ea0769a.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;时隔三天没有发布新的太阳系系列壁纸，今天来两发。这个是第一张：&lt;br
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · III 岩石行星</title>
+    <link href="http://blog.cnenfu.com/2016/03/19/007-NGstyle-solar-design-series-03/"/>
+    <id>http://blog.cnenfu.com/2016/03/19/007-NGstyle-solar-design-series-03/</id>
+    <published>2016-03-19T06:04:58.000Z</published>
+    <updated>2017-01-20T19:50:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e609bbab8921a41984ad366fbdba9057.jpg" alt=""><br>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是水星和金星，加了点星空。<br>前两张的带星空的也制作完成了，等下发～<br>希望你们也喜欢～</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/e609bbab8921a41984ad366fbdba9057.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;Inspired by &lt;a href=&quot;https://dribbble.
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · 额外 火星和地球的手机壁纸</title>
+    <link href="http://blog.cnenfu.com/2016/03/18/006-NGstyle-solar-design-series-mobile/"/>
+    <id>http://blog.cnenfu.com/2016/03/18/006-NGstyle-solar-design-series-mobile/</id>
+    <published>2016-03-18T06:04:58.000Z</published>
+    <updated>2017-01-20T18:49:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>地球：<br><img src="http://www.moepicx.cc/images/2017/01/20/17486fe81a99086ae9b8fcbd1ad8e615.jpg" alt=""></p>
+<a id="more"></a>
+<p>火星：<br><img src="http://www.moepicx.cc/images/2017/01/20/e83c99daf05ec5f0f375ec0fbed61dcb.jpg" alt=""></p>
+<p>太阳系壁纸的手机版，<br>火星还是很好看的对不对？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;地球：&lt;br&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/17486fe81a99086ae9b8fcbd1ad8e615.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · II 火星，我们的邻居</title>
+    <link href="http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/"/>
+    <id>http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/</id>
+    <published>2016-03-18T06:04:58.000Z</published>
+    <updated>2017-01-20T18:44:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c21d19a0e93a86abead2a691c5e03f52.jpg" alt=""></p>
+<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是火星和火星的火卫一、火卫二。<br>科幻想象了一下以后的移民船（个人觉得并不是很完美）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/c21d19a0e93a86abead2a691c5e03f52.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Inspired by &lt;a href=&quot;https://dribb
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>太阳系壁纸系列 · I 地球，我们的家</title>
+    <link href="http://blog.cnenfu.com/2016/03/17/004-NGstyle-solar-design-series-01/"/>
+    <id>http://blog.cnenfu.com/2016/03/17/004-NGstyle-solar-design-series-01/</id>
+    <published>2016-03-17T06:02:22.000Z</published>
+    <updated>2017-01-20T17:02:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c66db2dd35ab0745cf8f43b8b3eb7b60.jpg" alt=""><br>灵感迸发。<br>这次我加水印加得很随意…<br>有谁要盗图就盗图吧</p>
+<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.moepicx.cc/images/2017/01/20/c66db2dd35ab0745cf8f43b8b3eb7b60.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;灵感迸发。&lt;br&gt;这次我加水印加得很随意…&lt;br&gt;有谁要盗图就盗图吧&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+    
+    
+      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+    
+      <category term="MBE" scheme="http://blog.cnenfu.com/tags/MBE/"/>
+    
+      <category term="Nina Geometrieva" scheme="http://blog.cnenfu.com/tags/Nina-Geometrieva/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Mac OS版 Battle.Net安装（战网客户端）</title>
-    <link href="http://blog.cnenfu.com/2016/02/22/battle-net-setup-issue-fix/"/>
-    <id>http://blog.cnenfu.com/2016/02/22/battle-net-setup-issue-fix/</id>
+    <link href="http://blog.cnenfu.com/2016/02/22/003-battle-net-setup-issue-fix/"/>
+    <id>http://blog.cnenfu.com/2016/02/22/003-battle-net-setup-issue-fix/</id>
     <published>2016-02-22T21:35:30.000Z</published>
     <updated>2016-09-21T03:40:01.000Z</updated>
     
@@ -346,8 +750,8 @@ With whole brand new starts.
   
   <entry>
     <title>建站帮助（二）·插件</title>
-    <link href="http://blog.cnenfu.com/2016/02/07/hello-hexo-plugins/"/>
-    <id>http://blog.cnenfu.com/2016/02/07/hello-hexo-plugins/</id>
+    <link href="http://blog.cnenfu.com/2016/02/07/002-hello-hexo-plugins/"/>
+    <id>http://blog.cnenfu.com/2016/02/07/002-hello-hexo-plugins/</id>
     <published>2016-02-08T05:35:30.000Z</published>
     <updated>2016-09-21T03:32:01.000Z</updated>
     
@@ -423,6 +827,8 @@ With whole brand new starts.
       <category term="GitHub Blog" scheme="http://blog.cnenfu.com/categories/GitHub-Blog/"/>
     
     
+      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+    
       <category term="Hexo" scheme="http://blog.cnenfu.com/tags/Hexo/"/>
     
       <category term="建站" scheme="http://blog.cnenfu.com/tags/%E5%BB%BA%E7%AB%99/"/>
@@ -433,8 +839,8 @@ With whole brand new starts.
   
   <entry>
     <title>建站帮助</title>
-    <link href="http://blog.cnenfu.com/2016/02/07/hello-hexo/"/>
-    <id>http://blog.cnenfu.com/2016/02/07/hello-hexo/</id>
+    <link href="http://blog.cnenfu.com/2016/02/07/001-hello-hexo/"/>
+    <id>http://blog.cnenfu.com/2016/02/07/001-hello-hexo/</id>
     <published>2016-02-08T02:20:30.000Z</published>
     <updated>2016-09-16T00:09:01.000Z</updated>
     
@@ -463,6 +869,8 @@ With whole brand new starts.
     
       <category term="GitHub Blog" scheme="http://blog.cnenfu.com/categories/GitHub-Blog/"/>
     
+    
+      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
     
       <category term="Hexo" scheme="http://blog.cnenfu.com/tags/Hexo/"/>
     
