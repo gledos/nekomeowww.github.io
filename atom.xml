@@ -16,17 +16,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/21）</title>
-    <link href="http://blog.cnenfu.com/2017/01/21/019-blow-up-skimmers-in-ed-2203/"/>
-    <id>http://blog.cnenfu.com/2017/01/21/019-blow-up-skimmers-in-ed-2203/</id>
+    <title>Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/25）</title>
+    <link href="http://blog.cnenfu.com/2017/01/21/019-ed-2203-guide-01/"/>
+    <id>http://blog.cnenfu.com/2017/01/21/019-ed-2203-guide-01/</id>
     <published>2017-01-21T07:32:22.000Z</published>
     <updated>2017-01-21T07:40:22.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h1><p>之前17 Draconis有非常简单的炸无人机赚钱方式，今天刷YouTube的时候无意看到<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="external">David Hess</a>上传的关于如何做到每小时获利一亿CR的办法，自己也去实验了一下，仅仅是Cordial的声望等级，1个小时就能获利近4kw，这篇博客也算是补充一下怎么解决发电机吧。</p>
 <p><img src="http://www.moepicx.cc/images/2017/01/21/d55906bcbbcfc7515deee8c83cfb1917.jpg" alt=""></p>
 <a id="more"></a>
-<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><h2 id="舰船配置"><a href="#舰船配置" class="headerlink" title="舰船配置"></a>舰船配置</h2><p>群里有人需要指南所以这里提供一下<br>准备好两组Dumbfire Missile Rack作为RPG，大船可以多带点，比如neko的Anaconda带了4个导弹舱，只是为了好玩2333，准备大于或等于8T的货仓，盾带好一点，毕竟地面站火力还是比较强，到此为止你的装备就一切就绪啦www<br>首先去<a href="https://eddb.io/system/9284" target="_blank" rel="external">HR 4637星系</a>的<a href="https://eddb.io/station/60022" target="_blank" rel="external">OZANNE TERMINAL地面站</a>；<br>另外地面站提供以下服务：<br><img src="http://www.moepicx.cc/images/2017/01/21/fdf43284c79ff609c1bf9663e6314bb8.jpg" alt=""><br>紧急配船可以考虑到隔壁的<a href="https://eddb.io/system/18804" target="_blank" rel="external">Wang Dana星系</a></p>
-<h2 id="任务接受"><a href="#任务接受" class="headerlink" title="任务接受"></a>任务接受</h2><p>在Ozanne Terminal的Mission Board（任务板）上可以找到类似的任务：<br><img src="http://www.moepicx.cc/images/2017/01/21/d55906bcbbcfc7515deee8c83cfb1917.jpg" alt=""><br>你会注意到在任务概览的右侧，有 <strong>地面站名字</strong> 以及几个加号，加号代表安全等级（如果neko没有记错的话），<br>因为+++的风险太高了，就算是大船也会有爆炸的风险，所以我们只接一个加号的任务即可www<br>也就是： <strong>Kagan Settlement +</strong> 的任务，任务一般都是 <strong>Clean out XXXXXX Sentry Skimmer</strong> 或者是 <strong>Corporate Strike Against XXXXX Sentry Skimmers</strong> 这样的任务。</p>
+<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><h2 id="舰船配置"><a href="#舰船配置" class="headerlink" title="舰船配置"></a>舰船配置</h2><p>群里有人需要指南所以这里提供一下<br>准备好两组Dumbfire Missile Rack作为RPG，大船可以多带点，比如neko的Anaconda带了4个导弹舱，只是为了好玩2333，准备大于或等于8T的货仓，盾带好一点，毕竟地面站火力还是比较强，到此为止你的装备就一切就绪啦www</p>
+<p>HR 4637目前去的CMDR较多，任务较少，请等待更新其他星系。</p>
+<p><del>首先去<a href="https://eddb.io/system/9284" target="_blank" rel="external">HR 4637星系</a>的<a href="https://eddb.io/station/60022" target="_blank" rel="external">OZANNE TERMINAL地面站</a>；</del><br><del>另外地面站提供以下服务：</del><br><del><img src="http://www.moepicx.cc/images/2017/01/21/fdf43284c79ff609c1bf9663e6314bb8.jpg" alt=""></del><br><del>紧急配船可以考虑到隔壁的<a href="https://eddb.io/system/18804" target="_blank" rel="external">Wang Dana星系</a></del></p>
+<h2 id="任务接受"><a href="#任务接受" class="headerlink" title="任务接受"></a>任务接受</h2><h2 id="4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧"><a href="#4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧" class="headerlink" title="4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧"></a>4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧</h2><p><del>在Ozanne Terminal的Mission Board（任务板）上可以找到类似的任务：</del><br><del><img src="http://www.moepicx.cc/images/2017/01/21/d55906bcbbcfc7515deee8c83cfb1917.jpg" alt=""></del><br><del>你会注意到在任务概览的右侧，有 <strong>地面站名字</strong> 以及几个加号，加号代表安全等级（如果neko没有记错的话），</del><br><del>因为+++的风险太高了，就算是大船也会有爆炸的风险，所以我们只接一个加号的任务即可www</del><br><del>也就是： <strong>Kagan Settlement +</strong> 的任务，任务一般都是 <strong>Clean out XXXXXX Sentry Skimmer</strong> 或者是 <strong>Corporate Strike Against XXXXX Sentry Skimmers</strong> 这样的任务。</del></p>
 <p><em>第一次去接任务直接接就好了，先把好感度刷起来，越刷越多</em></p>
 <h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><p>堆叠满20个任务之后出发<br><img src="http://www.moepicx.cc/images/2017/01/21/6737fe9f09696025b23ec1abe53069c6.jpg" alt=""><br>实际操作如果有不明白的可以看这个B站视频教程：<a href="http://www.bilibili.com/video/av6840930/" target="_blank" rel="external">精英危险地平线2.2版本 猎杀地面无人机教程 关于反导系统请看简介</a></p>
 <h2 id="注意守护船"><a href="#注意守护船" class="headerlink" title="注意守护船"></a>注意守护船</h2><p>看到了Python，先丢个舰载机出去；<br><img src="http://www.moepicx.cc/images/2017/01/21/b3501163e600e27086ee2915e540f151.jpg" alt=""><br>先不管这个Python，我们先去炸了发电机，这样轻松点。</p>
