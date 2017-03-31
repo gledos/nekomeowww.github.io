@@ -4,13 +4,6 @@
   
     
     <entry>
-      <title><![CDATA[网易云播放器测试]]></title>
-      <url>http://blog.cnenfu.com/2017/01/31/999-Test-for-Netease-Cloudmusic-player/</url>
-      <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="620" height="430" src="http://music.163.com/outchain/player?type=0&id=513420626&auto=0&height=430"><br></iframe>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/25）]]></title>
       <url>http://blog.cnenfu.com/2017/01/21/019-ed-2203-guide-01/</url>
       <content type="html"><![CDATA[<h1 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h1><p>之前17 Draconis有非常简单的炸无人机赚钱方式，今天刷YouTube的时候无意看到<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="external">David Hess</a>上传的关于如何做到每小时获利一亿CR的办法，自己也去实验了一下，仅仅是Cordial的声望等级，1个小时就能获利近4kw，这篇博客也算是补充一下怎么解决发电机吧。</p>
@@ -39,7 +32,35 @@
 <a id="more"></a>
 <h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><h2 id="对比图"><a href="#对比图" class="headerlink" title="对比图"></a>对比图</h2><p>先来看看对比图吧www<br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/3c8deaaa2e57527e669e9da3bd854841.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/3b80c3ed1f48c7d720d8bccbcf5b5680.jpg" alt=""><br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/63bf237d832347f7aadb9b328b2ab06a.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/bed337a4c00e3272db654e553e49ed58.jpg" alt=""><br>之前：<br><img src="http://www.moepicx.cc/images/2017/01/19/04aef8df5bed2efcbfba297e029e0bbd.jpg" alt=""><br>之后：<br><img src="http://www.moepicx.cc/images/2017/01/19/5c5dcaf35632a20227e6cbac1c9231cb.jpg" alt=""></p>
 <p>————以下内容等待更新————</p>
-<h2 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h2><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1>]]></content>
+<h2 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h2><p>原本之前Neko有一个更好的配置文件（配置特效的各项数值），后来一次探索的过程中错误的拖移了那个数值…没记住之前的默认数值，后来只能用现在这个饱和度超级高的配置文件*。<br>综合所有Reshade带来的画质提升，Reshade是一款很好的画质加强辅助软件，如果你有学过摄影或者懂得如何使用Adobe Premiere Pro，那么Reshade就像是给游戏套上了一个完全自由和完全自定义的滤镜系统。相比其他来说，目前Reshade似乎是唯一一个能实时调整数值的画质加强软件呢。关于探索的截图，上面的对比图应该已经很明显了吧，虽然马上要更新的2.3自带一个官方提供的景深，但是如果迫不及待想要和小伙伴分享你的景深截图的话，Reshade可以帮你一把；除了景深以外就是饱和度和曝光度的提升，如果你设置了全局快捷键，你可以试试看对比一下原版ED和安装Reshade之后的样子，Reshade更加鲜艳一点，阴影部分更加黑暗，亮光部分更亮，而不是原版ED这样看似简单的色彩系统（这里Neko的意思是，ED自带的系统已经很完善了，因为优化等原因，FDDev可能删除了这些小功能，而不是说ED画质很差，不过无论如何Reshade可以补足这一点）。</p>
+<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><h3 id="官网直链"><a href="#官网直链" class="headerlink" title="官网直链"></a>官网直链</h3><p>先去Reshade的官网吧：<a href="reshade.me">reshade.me</a>（国内应该是不能直接访问到这里的，建议开一个VPN，如果实在没有VPN也没有关系，Neko会将必要的文件上传到百度云公开下载XD）<br><strong>这个就是Reshade的官网啦：</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/5c76762d96e1a3632c9142e64aa4c194.png" alt=""></p>
+<p><strong>这里点击Download就可以下载，如果没有VPN的小伙伴继续往下看</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/a520a0252b6a5b034877595f48778e0a.png" alt=""></p>
+<h3 id="百度云分享链接"><a href="#百度云分享链接" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h3><p>链接: <a href="http://pan.baidu.com/s/1i4GZFrJ" target="_blank" rel="external">http://pan.baidu.com/s/1i4GZFrJ</a> 密码: p97u</p>
+<h2 id="安装到Elite-Dangerous"><a href="#安装到Elite-Dangerous" class="headerlink" title="安装到Elite: Dangerous"></a>安装到Elite: Dangerous</h2><p>下载之后就可以打开这个安装文件（其实应该叫部署文件）<br><img src="http://www.moepicx.cc/images/2017/03/31/2f53c4aaea373e714b7d0b3d7d1424bd.png" alt=""></p>
+<p>在这里我们先选择<strong>Select Game</strong>，然后在选择游戏的窗口中找到你的elitedangerous64.exe。<br>Neko的Elite Dangerous是Steam安装的，那么一般文件会在<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">你的硬盘:\SteamLibrary\steamapps\common\Elite Dangerous\Products\elite-dangerous-64</div></pre></td></tr></table></figure></p>
+<p><img src="http://www.moepicx.cc/images/2017/03/31/cb34eaa9e401faf4bbe0e506695fe8b6.png" alt=""></p>
+<p><em>注意：如果你是通过Steam-打开游戏根目录这样的方式打开的游戏目录的话，是不正确的。在通过Steam打开之后，进入Products文件夹，然后找到elite-dangerous-64文件夹，最后就是游戏的根目录了。</em><br>然后选中elitedangerous64.exe这个程序：<br><img src="http://www.moepicx.cc/images/2017/03/31/f6d24a4a85ed48aeee46b0a46a8b9bbd.png" alt=""></p>
+<p>在接下来的这里选择Direct3D 10+<br><img src="http://www.moepicx.cc/images/2017/03/31/c4aff830a697b73247b09783f98e5353.png" alt=""></p>
+<p>然后会有一个弹出窗口询问是否从github上下载特效文件（因为国内种种原因：GFW什么的，国内访问速度较慢，甚至无法访问，如果你没有VPN的话，就点 <strong>否</strong> 吧。Neko会在下面给出Shader Folder的文件的）<br><img src="http://www.moepicx.cc/images/2017/03/31/d4d5fc37c375e143297c4274fd468829.png" alt=""></p>
+<h3 id="如果你有VPN请跟随这一步（如果没有VPN，点击这里）"><a href="#如果你有VPN请跟随这一步（如果没有VPN，点击这里）" class="headerlink" title="如果你有VPN请跟随这一步（如果没有VPN，点击这里）"></a>如果你有VPN请跟随这一步（如果没有VPN，点击<a href="#如果你没有VPN请跟随这一步">这里</a>）</h3><p><strong>点击“是”</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/edc463345348a88a7febfcb63b52d89c.png" alt=""></p>
+<p><strong>这里记得一定要取消勾选SurfaceBlur，因为不知名的原因，SurfaceBlur的代码有一点小问题，比如无法正确禁用特效之类的事情</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/5cd2afa25babce1484a3facc0b83e294.png" alt=""></p>
+<p><strong>然后点“OK”</strong></p>
+<h3 id="如果你没有VPN请跟随这一步"><a href="#如果你没有VPN请跟随这一步" class="headerlink" title="如果你没有VPN请跟随这一步"></a>如果你没有VPN请跟随这一步</h3><p><strong>点击“否”</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/5cd2afa25babce1484a3facc0b83e294.png" alt=""></p>
+<p>这样就表示安装结束。<br>然后来百度云这里下载</p>
+<h4 id="百度云分享链接-1"><a href="#百度云分享链接-1" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h4><p>链接: <a href="http://pan.baidu.com/s/1eSoVLtS" target="_blank" rel="external">http://pan.baidu.com/s/1eSoVLtS</a> 密码: xc8t，或者可以通过上面的百度云链接进去，<br>点击Shaders Folder，把压缩文件下载下来。<br>进入到你的Elite Dangerous根目录（…\Elite Dangerous\Products\elite-dangerous-64），把压缩文件解压到这里即可<br><img src="http://www.moepicx.cc/images/2017/03/31/ad2fb7f6d5d01419b82c110765d31925.png" alt=""><br>然后你现在只需要进入游戏就可以实时配置你的效果。<br>配置教程请继续往下阅读。</p>
+<h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p>配置对于不懂英文的小伙伴来说有点吃力，但是一般自己拖动一下数据（一定要记住默认数值），随便玩玩还是能理解每一个特效的意义的。</p>
+<h2 id="如何打开配置界面？"><a href="#如何打开配置界面？" class="headerlink" title="如何打开配置界面？"></a>如何打开配置界面？</h2><p>在游戏中按Shift + F2即可。<br><img src="http://www.moepicx.cc/images/2017/03/31/5c33a8f1c1e43e09d8f472def99f3bcf.png" alt=""></p>
+<h2 id="配置教程"><a href="#配置教程" class="headerlink" title="配置教程"></a>配置教程</h2><p>第一次进入会要求你过一遍教程：<br>我们点击这个 <strong>Continue</strong></p>
+<h2 id="配置文件选择器"><a href="#配置文件选择器" class="headerlink" title="配置文件选择器"></a>配置文件选择器</h2><p><img src="http://www.moepicx.cc/images/2017/03/31/4a0f1c31bbb8ae68d6e0165b91a01ed3.png" alt=""><br>这个选择器是用来选择多个不同的配置文件的，每一个配置文件可以为不同的数值，你也可以将他人的配置文件放在Elite Dangerous的根目录。<br>创建配置文件的方法：点击选择器旁边的 <strong>+</strong> 加号；<br>删除配置文件的方法：点击选择器旁边的 <strong>-</strong> 减号。<br>（配置文件的命名只能有标准的英文大小写，数字以及基本符号）<br>Neko在这里就把第一个配置文件命名为basic吧，那么basic的配置文件目录就是：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">G:\SteamLibrary\steamapps\common\Elite Dangerous\Products\elite-dangerous-64\basic.ini</div></pre></td></tr></table></figure></p>
+<p>最后点击 <strong>Continue</strong>。</p>
+<h2 id="特效组"><a href="#特效组" class="headerlink" title="特效组"></a>特效组</h2><p><img src="http://www.moepicx.cc/images/2017/03/31/dd9efb579aa81af3c6bff6f7d044209f.png" alt=""><br>特效组的使用方法很简单，前面的方块是激活/禁用开关，依次就是名字、快捷键绑定栏。<br>如果你想要某个特效，点那个小方块激活即可。<br>如果你想要禁用某个特效，再点一下那个小方块即可。<br>点击 <strong>Continue</strong> 进入到下一个环节。</p>
+<h2 id="变量组"><a href="#变量组" class="headerlink" title="变量组"></a>变量组</h2><p><img src="http://www.moepicx.cc/images/2017/03/31/aa11dee2a0285a46cfe5e882d36b2f68.png" alt=""><br>变量组就是一个特效的变量组，你可以直接用鼠标拖动这个数值来调整。<br>记得在尝试调整一个变量之前，要记得默认的数值喔~<br>点击 <strong>Finish</strong> 关闭教程。</p>
+<h2 id="教程结束"><a href="#教程结束" class="headerlink" title="教程结束"></a>教程结束</h2><p><img src="http://www.moepicx.cc/images/2017/03/31/1d13157309b84b84aec0434de8a58a3d.png" alt=""><br>到这里教程就结束啦~</p>
+<h2 id="综合设置"><a href="#综合设置" class="headerlink" title="综合设置"></a>综合设置</h2><p>综合设置的打开方法是工具左上角的Settings<br><img src="http://www.moepicx.cc/images/2017/03/31/22fdb8beaca7702e3a5627d46a20d6ac.png" alt=""><br>在这里可以设置一些快捷键，FPS显示之类的。</p>
+<h1 id="F-amp-Q"><a href="#F-amp-Q" class="headerlink" title="F&amp;Q"></a>F&amp;Q</h1><h4 id="问：下载失败，即便用了VPN还是很慢。为什么"><a href="#问：下载失败，即便用了VPN还是很慢。为什么" class="headerlink" title="问：下载失败，即便用了VPN还是很慢。为什么"></a>问：下载失败，即便用了VPN还是很慢。为什么</h4><p>答：可能是网络状况不太好，如果实在等不及，可以强制关闭Reshade安装程序，然后跟随无VPN的教程走：<a href="如果你没有VPN请跟随这一步">无VPN的教程</a></p>
+<h4 id="问：为什么游戏打不开了？（黑屏、闪退）"><a href="#问：为什么游戏打不开了？（黑屏、闪退）" class="headerlink" title="问：为什么游戏打不开了？（黑屏、闪退）"></a>问：为什么游戏打不开了？（黑屏、闪退）</h4><p>答：这样的问题一般不是因为安装出错，是因为电脑硬件不适配。相关问题还是要交给Reshade的开发者，如果不知道如何在GitHub上提出Bug反馈，也可以直接联系Neko的邮箱：neko@amineko.me。</p>
+<h4 id="问：我不想用Reshade了，怎么删除？"><a href="#问：我不想用Reshade了，怎么删除？" class="headerlink" title="问：我不想用Reshade了，怎么删除？"></a>问：我不想用Reshade了，怎么删除？</h4><p>答：把根目录下的dxgi.dll删除即可。</p>
+]]></content>
     </entry>
     
     <entry>
@@ -217,7 +238,7 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[原谅neko的歇斯底里]]></title>
-      <url>http://blog.cnenfu.com/2016/06/05/014-please-forgive-me-for-what-ive-done/</url>
+      <url>http://blog.cnenfu.com/2016/06/06/014-please-forgive-me-for-what-ive-done/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/2eca31b9cd6615c9c7a3e5e3e128c69f.jpg" alt=""><br>如何面对自己啊。<br>原谅我的歇斯底里。</p>
 <p>抱歉。</p>
 ]]></content>
@@ -225,7 +246,7 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[好想哭...]]></title>
-      <url>http://blog.cnenfu.com/2016/06/05/013-whether-i-should-choose-it/</url>
+      <url>http://blog.cnenfu.com/2016/06/06/013-whether-i-should-choose-it/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/beb8ac8145fa38f35ef6235cc7cd4ff5.jpg" alt=""></p>
 <p>真的…<br>真的好烦心…<br>好想离开这里…</p>
 <p>是时候迁徙了吗？<br>还是换个地方生存罢了…？<br>你们都还没有走…<br>希望不要走…<br>我也不想离开你们…<br>但是我似乎不得不离开这里…</p>
@@ -236,14 +257,14 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[Minecraft大型项目招人通告]]></title>
-      <url>http://blog.cnenfu.com/2016/05/01/012-minecraft-project-annoncement/</url>
+      <url>http://blog.cnenfu.com/2016/05/02/012-minecraft-project-annoncement/</url>
       <content type="html"><![CDATA[<h1 id="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"><a href="#【该项目不是Mod开发！不是地图建造！不是服务器维护！】" class="headerlink" title="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"></a>【该项目不是Mod开发！不是地图建造！不是服务器维护！】</h1><p>【不是Mod开发！】Minecraft的大型项目招人。你喜欢MC就来吧！你会Java就来吧！感兴趣的人加我好友或者Email联系我~不明白的东西我都会说清楚的。<br>[<img src="http://www.moepicx.cc/images/2016/05/02/b2b0bdb44760175a89fcf61e080571d9.jpg" alt="b2b0bdb44760175a89fcf61e080571d9.md.jpg"><br><em>不建议学业较重的小伙伴加入</em>。 和本人GitHub下integralloader repo有关系<br><a id="more"></a></p>
 ]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[新设计的Logo =￣ω￣=]]></title>
-      <url>http://blog.cnenfu.com/2016/04/16/011-new-logo-for-lonelystar/</url>
+      <url>http://blog.cnenfu.com/2016/04/17/011-new-logo-for-lonelystar/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e46575db0fe146fe5f9ca0440b30c6a0.png" alt=""><br>原版蓝色。<br>Original Blue</p>
 <a id="more"></a>
 <p>这个新图标其实是我在设计另一个图标的时候有灵感的，于是今天我几乎在所有社交网站上都更新了这个图标~要是哪个大佬能拉我进Dribbble就好了233333.<br>希望你们喜欢~~ 有6个版本~</p>
@@ -254,21 +275,21 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[YouTube的新Banner]]></title>
-      <url>http://blog.cnenfu.com/2016/04/16/010-the-new-youtube-banner-2016/</url>
+      <url>http://blog.cnenfu.com/2016/04/17/010-the-new-youtube-banner-2016/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/d53a2010e409128d7bb1b1a07b73d57c.png" alt=""><br>YouTube频道终于迎来了自主版权的这一刻。<br>这是封面~ 依然是熟悉的扁平风星球设计加上全新的图标。<br>可以欢呼下~~~</p>
 ]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · V 女神·土星和她的卫星]]></title>
-      <url>http://blog.cnenfu.com/2016/03/22/009-NGstyle-solar-design-series-05/</url>
+      <url>http://blog.cnenfu.com/2016/03/23/009-NGstyle-solar-design-series-05/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/b88d14d8671826e2075fc59285bb7419.jpg" alt=""><br>第二张就是土星啦～<br>【太阳系系列壁纸：女神·土星和她的卫星】<br>土星设计花了一晚上吧…光环也是做出来不好看删掉又重做。考察了大量资料发现土星的卫星大多数颜色都和月球一样，就只放上这三颗了。土卫二也好漂亮（所以设计成蓝色的）<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>感觉第二卫星都好好看的样子～<br>（我记得土星有62颗卫星，木星有63颗的样子？）<br>希望你们能喜欢～</p>
 ]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · IV 我们的守护神·木星和她的卫星]]></title>
-      <url>http://blog.cnenfu.com/2016/03/22/008-NGstyle-solar-design-series-04/</url>
+      <url>http://blog.cnenfu.com/2016/03/23/008-NGstyle-solar-design-series-04/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/3b5aa4e3b6e23bffd5b2b9a65ea0769a.jpg" alt=""></p>
 <p>时隔三天没有发布新的太阳系系列壁纸，今天来两发。这个是第一张：<br>【太阳系系列壁纸：我们的守护神·木星和她的卫星】<br>木星设计花了我好久…不知道这样的设计你们喜不喜欢，原本是有一个大红斑的，但是贴上去之后发现效果不好就删掉了。<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>木星的卫星真的是好好看（现实世界里最爱木卫二）</p>
 ]]></content>
@@ -278,6 +299,14 @@ With whole brand new starts.
       <title><![CDATA[太阳系壁纸系列 · III 岩石行星]]></title>
       <url>http://blog.cnenfu.com/2016/03/19/007-NGstyle-solar-design-series-03/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e609bbab8921a41984ad366fbdba9057.jpg" alt=""><br>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是水星和金星，加了点星空。<br>前两张的带星空的也制作完成了，等下发～<br>希望你们也喜欢～</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[太阳系壁纸系列 · II 火星，我们的邻居]]></title>
+      <url>http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/</url>
+      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c21d19a0e93a86abead2a691c5e03f52.jpg" alt=""></p>
+<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是火星和火星的火卫一、火卫二。<br>科幻想象了一下以后的移民船（个人觉得并不是很完美）</p>
 ]]></content>
     </entry>
     
@@ -292,14 +321,6 @@ With whole brand new starts.
     </entry>
     
     <entry>
-      <title><![CDATA[太阳系壁纸系列 · II 火星，我们的邻居]]></title>
-      <url>http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/</url>
-      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c21d19a0e93a86abead2a691c5e03f52.jpg" alt=""></p>
-<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是火星和火星的火卫一、火卫二。<br>科幻想象了一下以后的移民船（个人觉得并不是很完美）</p>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[太阳系壁纸系列 · I 地球，我们的家]]></title>
       <url>http://blog.cnenfu.com/2016/03/17/004-NGstyle-solar-design-series-01/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c66db2dd35ab0745cf8f43b8b3eb7b60.jpg" alt=""><br>灵感迸发。<br>这次我加水印加得很随意…<br>有谁要盗图就盗图吧</p>
@@ -309,7 +330,7 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[Mac OS版 Battle.Net安装（战网客户端）]]></title>
-      <url>http://blog.cnenfu.com/2016/02/22/003-battle-net-setup-issue-fix/</url>
+      <url>http://blog.cnenfu.com/2016/02/23/003-battle-net-setup-issue-fix/</url>
       <content type="html"><![CDATA[<h1 id="战网安装错误"><a href="#战网安装错误" class="headerlink" title="战网安装错误"></a>战网安装错误</h1><p>如果你按照普通的安装思路：</p>
 <ol>
 <li>打开官网下载的压缩包</li>
@@ -339,7 +360,7 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[建站帮助（二）·插件]]></title>
-      <url>http://blog.cnenfu.com/2016/02/07/002-hello-hexo-plugins/</url>
+      <url>http://blog.cnenfu.com/2016/02/08/002-hello-hexo-plugins/</url>
       <content type="html"><![CDATA[<h1 id="插件列表-Hexo官方的插件列表或者GitHub上的Wiki插件列表"><a href="#插件列表-Hexo官方的插件列表或者GitHub上的Wiki插件列表" class="headerlink" title="插件列表 (Hexo官方的插件列表或者GitHub上的Wiki插件列表)"></a>插件列表 (Hexo官方的插件列表或者GitHub上的Wiki插件列表)</h1><ol>
 <li>【管理插件】Hexo Admin (<a href="https://github.com/jaredly/hexo-admin" target="_blank" rel="external">hexo-admin</a>)</li>
 <li>【管理插件】Hexo Hey (<a href="https://github.com/nihgwu/hexo-hey" target="_blank" rel="external">hexo-hey</a>)</li>
@@ -393,7 +414,7 @@ With whole brand new starts.
     
     <entry>
       <title><![CDATA[建站帮助]]></title>
-      <url>http://blog.cnenfu.com/2016/02/07/001-hello-hexo/</url>
+      <url>http://blog.cnenfu.com/2016/02/08/001-hello-hexo/</url>
       <content type="html"><![CDATA[<p>这是我第一篇使用Hexo写的文章，使用方法详见文稿。关于Hexo的任何问题以及错误可以前往问题解答页面查看，也可以直接寻找Hexo GitHub求解。</p>
 <h1 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h1><h2 id="安装Node-js环境和Git-Desktop"><a href="#安装Node-js环境和Git-Desktop" class="headerlink" title="安装Node.js环境和Git Desktop"></a>安装Node.js环境和Git Desktop</h2><p>从<a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a>的官网站点下载并安装。<br>从Github的官方网站下载<a href="https://desktop.github.com/" target="_blank" rel="external">GitHub Desktop</a>并安装。</p>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>安装好Git和Node之后，打开在桌面上（或者去开始菜单）的“Git Shell”输入以下命令。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ npm install -g hexo</div><div class="line">/*如果报错，使用taobao.org的源进行下载*/</div><div class="line">$ npm install -g cnpm --registry=https://registry.npm.taobao.org</div><div class="line">/*下面的命令行一定要运行*/</div><div class="line">$ npm install hexo --save</div></pre></td></tr></table></figure></p>
