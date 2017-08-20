@@ -4,9 +4,9 @@
   <subtitle>Somewhat Somewhere</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.cnenfu.com/"/>
-  <updated>2017-05-07T20:56:10.000Z</updated>
-  <id>http://blog.cnenfu.com/</id>
+  <link href="http://nekomeowww.github.io/"/>
+  <updated>2017-08-17T23:00:00.000Z</updated>
+  <id>http://nekomeowww.github.io/</id>
   
   <author>
     <name>Neko</name>
@@ -16,9 +16,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于吃糖...</title>
+    <link href="http://nekomeowww.github.io/2017/08/17/023-hrt-guide-for-transsexuals/"/>
+    <id>http://nekomeowww.github.io/2017/08/17/023-hrt-guide-for-transsexuals/</id>
+    <published>2017-08-17T22:37:00.000Z</published>
+    <updated>2017-08-17T23:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>想了想决定开三个大坑，<br>一个就是写写便当的一些想法和概念，一个是之前一直说的一个故事设计，最后就是这篇文章。<br>毕竟Neko多的还是生活在北美，即便之前最后5个月都是在国内度过（因为自己的情绪问题），那这边找到的资料什么的就放在这里，也可以聊聊neko的日常。</p>
+<a id="more"></a>
+<h1 id="自从去年到现在的变化"><a href="#自从去年到现在的变化" class="headerlink" title="自从去年到现在的变化"></a>自从去年到现在的变化</h1><p>Todo</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;想了想决定开三个大坑，&lt;br&gt;一个就是写写便当的一些想法和概念，一个是之前一直说的一个故事设计，最后就是这篇文章。&lt;br&gt;毕竟Neko多的还是生活在北美，即便之前最后5个月都是在国内度过（因为自己的情绪问题），那这边找到的资料什么的就放在这里，也可以聊聊neko的日常。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Living" scheme="http://nekomeowww.github.io/categories/Living/"/>
+    
+    
+      <category term="MtF" scheme="http://nekomeowww.github.io/tags/MtF/"/>
+    
+      <category term="药娘" scheme="http://nekomeowww.github.io/tags/%E8%8D%AF%E5%A8%98/"/>
+    
+      <category term="不存在的Tag" scheme="http://nekomeowww.github.io/tags/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84Tag/"/>
+    
+      <category term="LGBTQIA" scheme="http://nekomeowww.github.io/tags/LGBTQIA/"/>
+    
+      <category term="Neko" scheme="http://nekomeowww.github.io/tags/Neko/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Formidine Rift的POI</title>
-    <link href="http://blog.cnenfu.com/2017/05/08/022-formidine-rift-note/"/>
-    <id>http://blog.cnenfu.com/2017/05/08/022-formidine-rift-note/</id>
+    <link href="http://nekomeowww.github.io/2017/05/07/022-formidine-rift-note/"/>
+    <id>http://nekomeowww.github.io/2017/05/07/022-formidine-rift-note/</id>
     <published>2017-05-07T20:38:22.000Z</published>
     <updated>2017-05-07T20:56:10.000Z</updated>
     
@@ -52,23 +85,23 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://blog.cnenfu.com/categories/Guide/"/>
+      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
     
     
-      <category term="Elite Dangerous" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
     
-      <category term="精英危险" scheme="http://blog.cnenfu.com/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
+      <category term="精英危险" scheme="http://nekomeowww.github.io/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
     
-      <category term="Elite Dangerous Horizon" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous-Horizon/"/>
+      <category term="Elite Dangerous Horizon" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous-Horizon/"/>
     
-      <category term="The Formidine Rift" scheme="http://blog.cnenfu.com/tags/The-Formidine-Rift/"/>
+      <category term="The Formidine Rift" scheme="http://nekomeowww.github.io/tags/The-Formidine-Rift/"/>
     
   </entry>
   
   <entry>
     <title>Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/25）</title>
-    <link href="http://blog.cnenfu.com/2017/01/21/019-ed-2203-guide-01/"/>
-    <id>http://blog.cnenfu.com/2017/01/21/019-ed-2203-guide-01/</id>
+    <link href="http://nekomeowww.github.io/2017/01/21/019-ed-2203-guide-01/"/>
+    <id>http://nekomeowww.github.io/2017/01/21/019-ed-2203-guide-01/</id>
     <published>2017-01-21T07:32:22.000Z</published>
     <updated>2017-01-21T07:40:22.000Z</updated>
     
@@ -96,21 +129,21 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://blog.cnenfu.com/categories/Guide/"/>
+      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
     
     
-      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Elite Dangerous" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
     
-      <category term="Elite Dangerous Horizon" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous-Horizon/"/>
+      <category term="Elite Dangerous Horizon" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous-Horizon/"/>
     
   </entry>
   
   <entry>
     <title>Elite Dangerous（精英危险）Reshade 3.0 设置</title>
-    <link href="http://blog.cnenfu.com/2017/01/19/017-reshade-guide-for-ed/"/>
-    <id>http://blog.cnenfu.com/2017/01/19/017-reshade-guide-for-ed/</id>
+    <link href="http://nekomeowww.github.io/2017/01/19/017-reshade-guide-for-ed/"/>
+    <id>http://nekomeowww.github.io/2017/01/19/017-reshade-guide-for-ed/</id>
     <published>2017-01-19T10:38:22.000Z</published>
     <updated>2017-01-19T10:38:22.000Z</updated>
     
@@ -156,31 +189,31 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://blog.cnenfu.com/categories/Guide/"/>
+      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
     
     
-      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Elite Dangerous" scheme="http://blog.cnenfu.com/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
     
-      <category term="精英危险" scheme="http://blog.cnenfu.com/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
+      <category term="精英危险" scheme="http://nekomeowww.github.io/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
     
-      <category term="Reshade" scheme="http://blog.cnenfu.com/tags/Reshade/"/>
+      <category term="Reshade" scheme="http://nekomeowww.github.io/tags/Reshade/"/>
     
-      <category term="EDFX" scheme="http://blog.cnenfu.com/tags/EDFX/"/>
+      <category term="EDFX" scheme="http://nekomeowww.github.io/tags/EDFX/"/>
     
-      <category term="Reshade 3.0" scheme="http://blog.cnenfu.com/tags/Reshade-3-0/"/>
+      <category term="Reshade 3.0" scheme="http://nekomeowww.github.io/tags/Reshade-3-0/"/>
     
-      <category term="画面后期特效" scheme="http://blog.cnenfu.com/tags/%E7%94%BB%E9%9D%A2%E5%90%8E%E6%9C%9F%E7%89%B9%E6%95%88/"/>
+      <category term="画面后期特效" scheme="http://nekomeowww.github.io/tags/%E7%94%BB%E9%9D%A2%E5%90%8E%E6%9C%9F%E7%89%B9%E6%95%88/"/>
     
-      <category term="Graphic Post Effects" scheme="http://blog.cnenfu.com/tags/Graphic-Post-Effects/"/>
+      <category term="Graphic Post Effects" scheme="http://nekomeowww.github.io/tags/Graphic-Post-Effects/"/>
     
   </entry>
   
   <entry>
     <title>FactoCraft 大纲</title>
-    <link href="http://blog.cnenfu.com/2016/12/06/016-thoughts-of-the-factocraft-mod/"/>
-    <id>http://blog.cnenfu.com/2016/12/06/016-thoughts-of-the-factocraft-mod/</id>
+    <link href="http://nekomeowww.github.io/2016/12/06/016-thoughts-of-the-factocraft-mod/"/>
+    <id>http://nekomeowww.github.io/2016/12/06/016-thoughts-of-the-factocraft-mod/</id>
     <published>2016-12-06T15:38:22.000Z</published>
     <updated>2016-12-06T15:38:22.000Z</updated>
     
@@ -206,31 +239,31 @@
     
     </summary>
     
-      <category term="Thoughts" scheme="http://blog.cnenfu.com/categories/Thoughts/"/>
+      <category term="Thoughts" scheme="http://nekomeowww.github.io/categories/Thoughts/"/>
     
     
-      <category term="Java" scheme="http://blog.cnenfu.com/tags/Java/"/>
+      <category term="Java" scheme="http://nekomeowww.github.io/tags/Java/"/>
     
-      <category term="Minecraft" scheme="http://blog.cnenfu.com/tags/Minecraft/"/>
+      <category term="Minecraft" scheme="http://nekomeowww.github.io/tags/Minecraft/"/>
     
-      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
+      <category term="Forge" scheme="http://nekomeowww.github.io/tags/Forge/"/>
     
-      <category term="FactoCraft" scheme="http://blog.cnenfu.com/tags/FactoCraft/"/>
+      <category term="FactoCraft" scheme="http://nekomeowww.github.io/tags/FactoCraft/"/>
     
-      <category term="Factorio" scheme="http://blog.cnenfu.com/tags/Factorio/"/>
+      <category term="Factorio" scheme="http://nekomeowww.github.io/tags/Factorio/"/>
     
-      <category term="Mod" scheme="http://blog.cnenfu.com/tags/Mod/"/>
+      <category term="Mod" scheme="http://nekomeowww.github.io/tags/Mod/"/>
     
-      <category term="笔记" scheme="http://blog.cnenfu.com/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="http://nekomeowww.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="编程" scheme="http://blog.cnenfu.com/tags/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="http://nekomeowww.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>就个人对LGBT的观点</title>
-    <link href="http://blog.cnenfu.com/2016/09/23/015-my-opinion-of-lgbt/"/>
-    <id>http://blog.cnenfu.com/2016/09/23/015-my-opinion-of-lgbt/</id>
+    <link href="http://nekomeowww.github.io/2016/09/23/015-my-opinion-of-lgbt/"/>
+    <id>http://nekomeowww.github.io/2016/09/23/015-my-opinion-of-lgbt/</id>
     <published>2016-09-23T14:38:22.000Z</published>
     <updated>2017-01-30T15:38:22.000Z</updated>
     
@@ -392,35 +425,35 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Thoughts" scheme="http://blog.cnenfu.com/categories/Thoughts/"/>
+      <category term="Thoughts" scheme="http://nekomeowww.github.io/categories/Thoughts/"/>
     
     
-      <category term="LGBT" scheme="http://blog.cnenfu.com/tags/LGBT/"/>
+      <category term="LGBT" scheme="http://nekomeowww.github.io/tags/LGBT/"/>
     
-      <category term="宗教" scheme="http://blog.cnenfu.com/tags/%E5%AE%97%E6%95%99/"/>
+      <category term="宗教" scheme="http://nekomeowww.github.io/tags/%E5%AE%97%E6%95%99/"/>
     
-      <category term="同性恋" scheme="http://blog.cnenfu.com/tags/%E5%90%8C%E6%80%A7%E6%81%8B/"/>
+      <category term="同性恋" scheme="http://nekomeowww.github.io/tags/%E5%90%8C%E6%80%A7%E6%81%8B/"/>
     
-      <category term="双性恋" scheme="http://blog.cnenfu.com/tags/%E5%8F%8C%E6%80%A7%E6%81%8B/"/>
+      <category term="双性恋" scheme="http://nekomeowww.github.io/tags/%E5%8F%8C%E6%80%A7%E6%81%8B/"/>
     
-      <category term="跨性别者" scheme="http://blog.cnenfu.com/tags/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85/"/>
+      <category term="跨性别者" scheme="http://nekomeowww.github.io/tags/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85/"/>
     
-      <category term="Gays" scheme="http://blog.cnenfu.com/tags/Gays/"/>
+      <category term="Gays" scheme="http://nekomeowww.github.io/tags/Gays/"/>
     
-      <category term="Lesbians" scheme="http://blog.cnenfu.com/tags/Lesbians/"/>
+      <category term="Lesbians" scheme="http://nekomeowww.github.io/tags/Lesbians/"/>
     
-      <category term="Transgender" scheme="http://blog.cnenfu.com/tags/Transgender/"/>
+      <category term="Transgender" scheme="http://nekomeowww.github.io/tags/Transgender/"/>
     
-      <category term="MtF" scheme="http://blog.cnenfu.com/tags/MtF/"/>
+      <category term="MtF" scheme="http://nekomeowww.github.io/tags/MtF/"/>
     
-      <category term="Bisexuals" scheme="http://blog.cnenfu.com/tags/Bisexuals/"/>
+      <category term="Bisexuals" scheme="http://nekomeowww.github.io/tags/Bisexuals/"/>
     
   </entry>
   
   <entry>
     <title>原谅neko的歇斯底里</title>
-    <link href="http://blog.cnenfu.com/2016/06/06/014-please-forgive-me-for-what-ive-done/"/>
-    <id>http://blog.cnenfu.com/2016/06/06/014-please-forgive-me-for-what-ive-done/</id>
+    <link href="http://nekomeowww.github.io/2016/06/05/014-please-forgive-me-for-what-ive-done/"/>
+    <id>http://nekomeowww.github.io/2016/06/05/014-please-forgive-me-for-what-ive-done/</id>
     <published>2016-06-06T00:29:00.000Z</published>
     <updated>2017-01-20T20:46:30.000Z</updated>
     
@@ -436,19 +469,19 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Neko" scheme="http://blog.cnenfu.com/categories/Neko/"/>
+      <category term="Neko" scheme="http://nekomeowww.github.io/categories/Neko/"/>
     
     
-      <category term="文字" scheme="http://blog.cnenfu.com/tags/%E6%96%87%E5%AD%97/"/>
+      <category term="难过" scheme="http://nekomeowww.github.io/tags/%E9%9A%BE%E8%BF%87/"/>
     
-      <category term="难过" scheme="http://blog.cnenfu.com/tags/%E9%9A%BE%E8%BF%87/"/>
+      <category term="文字" scheme="http://nekomeowww.github.io/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
   <entry>
     <title>好想哭...</title>
-    <link href="http://blog.cnenfu.com/2016/06/06/013-whether-i-should-choose-it/"/>
-    <id>http://blog.cnenfu.com/2016/06/06/013-whether-i-should-choose-it/</id>
+    <link href="http://nekomeowww.github.io/2016/06/05/013-whether-i-should-choose-it/"/>
+    <id>http://nekomeowww.github.io/2016/06/05/013-whether-i-should-choose-it/</id>
     <published>2016-06-05T22:30:20.000Z</published>
     <updated>2017-01-20T20:44:03.000Z</updated>
     
@@ -467,23 +500,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Neko" scheme="http://blog.cnenfu.com/categories/Neko/"/>
+      <category term="Neko" scheme="http://nekomeowww.github.io/categories/Neko/"/>
     
     
-      <category term="难过" scheme="http://blog.cnenfu.com/tags/%E9%9A%BE%E8%BF%87/"/>
+      <category term="难过" scheme="http://nekomeowww.github.io/tags/%E9%9A%BE%E8%BF%87/"/>
     
-      <category term="随笔" scheme="http://blog.cnenfu.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://nekomeowww.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="发泄" scheme="http://blog.cnenfu.com/tags/%E5%8F%91%E6%B3%84/"/>
+      <category term="发泄" scheme="http://nekomeowww.github.io/tags/%E5%8F%91%E6%B3%84/"/>
     
-      <category term="人生" scheme="http://blog.cnenfu.com/tags/%E4%BA%BA%E7%94%9F/"/>
+      <category term="人生" scheme="http://nekomeowww.github.io/tags/%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
   <entry>
     <title>Minecraft大型项目招人通告</title>
-    <link href="http://blog.cnenfu.com/2016/05/02/012-minecraft-project-annoncement/"/>
-    <id>http://blog.cnenfu.com/2016/05/02/012-minecraft-project-annoncement/</id>
+    <link href="http://nekomeowww.github.io/2016/05/01/012-minecraft-project-annoncement/"/>
+    <id>http://nekomeowww.github.io/2016/05/01/012-minecraft-project-annoncement/</id>
     <published>2016-05-01T18:35:30.000Z</published>
     <updated>2016-09-21T04:15:01.000Z</updated>
     
@@ -496,25 +529,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Programming" scheme="http://blog.cnenfu.com/categories/Programming/"/>
+      <category term="Programming" scheme="http://nekomeowww.github.io/categories/Programming/"/>
     
     
-      <category term="Java" scheme="http://blog.cnenfu.com/tags/Java/"/>
+      <category term="Java" scheme="http://nekomeowww.github.io/tags/Java/"/>
     
-      <category term="Minecraft" scheme="http://blog.cnenfu.com/tags/Minecraft/"/>
+      <category term="Minecraft" scheme="http://nekomeowww.github.io/tags/Minecraft/"/>
     
-      <category term="Forge" scheme="http://blog.cnenfu.com/tags/Forge/"/>
+      <category term="Forge" scheme="http://nekomeowww.github.io/tags/Forge/"/>
     
-      <category term="Minecraft Mod" scheme="http://blog.cnenfu.com/tags/Minecraft-Mod/"/>
+      <category term="Minecraft Mod" scheme="http://nekomeowww.github.io/tags/Minecraft-Mod/"/>
     
-      <category term="Forge API" scheme="http://blog.cnenfu.com/tags/Forge-API/"/>
+      <category term="Forge API" scheme="http://nekomeowww.github.io/tags/Forge-API/"/>
     
   </entry>
   
   <entry>
     <title>新设计的Logo =￣ω￣=</title>
-    <link href="http://blog.cnenfu.com/2016/04/17/011-new-logo-for-lonelystar/"/>
-    <id>http://blog.cnenfu.com/2016/04/17/011-new-logo-for-lonelystar/</id>
+    <link href="http://nekomeowww.github.io/2016/04/16/011-new-logo-for-lonelystar/"/>
+    <id>http://nekomeowww.github.io/2016/04/16/011-new-logo-for-lonelystar/</id>
     <published>2016-04-16T17:30:25.000Z</published>
     <updated>2017-01-20T20:39:02.000Z</updated>
     
@@ -531,25 +564,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
-      <category term="logo" scheme="http://blog.cnenfu.com/tags/logo/"/>
+      <category term="logo" scheme="http://nekomeowww.github.io/tags/logo/"/>
     
   </entry>
   
   <entry>
     <title>YouTube的新Banner</title>
-    <link href="http://blog.cnenfu.com/2016/04/17/010-the-new-youtube-banner-2016/"/>
-    <id>http://blog.cnenfu.com/2016/04/17/010-the-new-youtube-banner-2016/</id>
+    <link href="http://nekomeowww.github.io/2016/04/16/010-the-new-youtube-banner-2016/"/>
+    <id>http://nekomeowww.github.io/2016/04/16/010-the-new-youtube-banner-2016/</id>
     <published>2016-04-16T16:04:40.000Z</published>
     <updated>2017-01-20T20:38:02.000Z</updated>
     
@@ -562,25 +595,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
-      <category term="YouTube频道管理" scheme="http://blog.cnenfu.com/tags/YouTube%E9%A2%91%E9%81%93%E7%AE%A1%E7%90%86/"/>
+      <category term="YouTube频道管理" scheme="http://nekomeowww.github.io/tags/YouTube%E9%A2%91%E9%81%93%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · V 女神·土星和她的卫星</title>
-    <link href="http://blog.cnenfu.com/2016/03/23/009-NGstyle-solar-design-series-05/"/>
-    <id>http://blog.cnenfu.com/2016/03/23/009-NGstyle-solar-design-series-05/</id>
+    <link href="http://nekomeowww.github.io/2016/03/22/009-NGstyle-solar-design-series-05/"/>
+    <id>http://nekomeowww.github.io/2016/03/22/009-NGstyle-solar-design-series-05/</id>
     <published>2016-03-23T05:10:58.000Z</published>
     <updated>2017-01-20T20:20:03.000Z</updated>
     
@@ -593,23 +626,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · IV 我们的守护神·木星和她的卫星</title>
-    <link href="http://blog.cnenfu.com/2016/03/23/008-NGstyle-solar-design-series-04/"/>
-    <id>http://blog.cnenfu.com/2016/03/23/008-NGstyle-solar-design-series-04/</id>
+    <link href="http://nekomeowww.github.io/2016/03/22/008-NGstyle-solar-design-series-04/"/>
+    <id>http://nekomeowww.github.io/2016/03/22/008-NGstyle-solar-design-series-04/</id>
     <published>2016-03-23T05:04:58.000Z</published>
     <updated>2017-01-20T20:13:03.000Z</updated>
     
@@ -624,23 +657,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · III 岩石行星</title>
-    <link href="http://blog.cnenfu.com/2016/03/19/007-NGstyle-solar-design-series-03/"/>
-    <id>http://blog.cnenfu.com/2016/03/19/007-NGstyle-solar-design-series-03/</id>
+    <link href="http://nekomeowww.github.io/2016/03/19/007-NGstyle-solar-design-series-03/"/>
+    <id>http://nekomeowww.github.io/2016/03/19/007-NGstyle-solar-design-series-03/</id>
     <published>2016-03-19T06:04:58.000Z</published>
     <updated>2017-01-20T19:50:03.000Z</updated>
     
@@ -653,23 +686,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · 额外 火星和地球的手机壁纸</title>
-    <link href="http://blog.cnenfu.com/2016/03/18/006-NGstyle-solar-design-series-mobile/"/>
-    <id>http://blog.cnenfu.com/2016/03/18/006-NGstyle-solar-design-series-mobile/</id>
+    <link href="http://nekomeowww.github.io/2016/03/18/006-NGstyle-solar-design-series-mobile/"/>
+    <id>http://nekomeowww.github.io/2016/03/18/006-NGstyle-solar-design-series-mobile/</id>
     <published>2016-03-18T06:04:58.000Z</published>
     <updated>2017-01-20T18:49:03.000Z</updated>
     
@@ -685,23 +718,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · II 火星，我们的邻居</title>
-    <link href="http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/"/>
-    <id>http://blog.cnenfu.com/2016/03/18/005-NGstyle-solar-design-series-02/</id>
+    <link href="http://nekomeowww.github.io/2016/03/18/005-NGstyle-solar-design-series-02/"/>
+    <id>http://nekomeowww.github.io/2016/03/18/005-NGstyle-solar-design-series-02/</id>
     <published>2016-03-18T06:04:58.000Z</published>
     <updated>2017-01-20T18:44:02.000Z</updated>
     
@@ -716,23 +749,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · I 地球，我们的家</title>
-    <link href="http://blog.cnenfu.com/2016/03/17/004-NGstyle-solar-design-series-01/"/>
-    <id>http://blog.cnenfu.com/2016/03/17/004-NGstyle-solar-design-series-01/</id>
+    <link href="http://nekomeowww.github.io/2016/03/17/004-NGstyle-solar-design-series-01/"/>
+    <id>http://nekomeowww.github.io/2016/03/17/004-NGstyle-solar-design-series-01/</id>
     <published>2016-03-17T06:02:22.000Z</published>
     <updated>2017-01-20T17:02:38.000Z</updated>
     
@@ -746,23 +779,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/categories/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://blog.cnenfu.com/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://blog.cnenfu.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://blog.cnenfu.com/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://blog.cnenfu.com/tags/Design/"/>
+      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>Mac OS版 Battle.Net安装（战网客户端）</title>
-    <link href="http://blog.cnenfu.com/2016/02/23/003-battle-net-setup-issue-fix/"/>
-    <id>http://blog.cnenfu.com/2016/02/23/003-battle-net-setup-issue-fix/</id>
+    <link href="http://nekomeowww.github.io/2016/02/22/003-battle-net-setup-issue-fix/"/>
+    <id>http://nekomeowww.github.io/2016/02/22/003-battle-net-setup-issue-fix/</id>
     <published>2016-02-22T21:35:30.000Z</published>
     <updated>2016-09-21T03:40:01.000Z</updated>
     
@@ -805,25 +838,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Mac OS" scheme="http://blog.cnenfu.com/categories/Mac-OS/"/>
+      <category term="Mac OS" scheme="http://nekomeowww.github.io/categories/Mac-OS/"/>
     
     
-      <category term="Battle.net" scheme="http://blog.cnenfu.com/tags/Battle-net/"/>
+      <category term="Battle.net" scheme="http://nekomeowww.github.io/tags/Battle-net/"/>
     
-      <category term="战网" scheme="http://blog.cnenfu.com/tags/%E6%88%98%E7%BD%91/"/>
+      <category term="战网" scheme="http://nekomeowww.github.io/tags/%E6%88%98%E7%BD%91/"/>
     
-      <category term="炉石传说" scheme="http://blog.cnenfu.com/tags/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4/"/>
+      <category term="炉石传说" scheme="http://nekomeowww.github.io/tags/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4/"/>
     
-      <category term="魔兽世界" scheme="http://blog.cnenfu.com/tags/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C/"/>
+      <category term="魔兽世界" scheme="http://nekomeowww.github.io/tags/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C/"/>
     
-      <category term="WOW" scheme="http://blog.cnenfu.com/tags/WOW/"/>
+      <category term="WOW" scheme="http://nekomeowww.github.io/tags/WOW/"/>
     
   </entry>
   
   <entry>
     <title>建站帮助（二）·插件</title>
-    <link href="http://blog.cnenfu.com/2016/02/08/002-hello-hexo-plugins/"/>
-    <id>http://blog.cnenfu.com/2016/02/08/002-hello-hexo-plugins/</id>
+    <link href="http://nekomeowww.github.io/2016/02/07/002-hello-hexo-plugins/"/>
+    <id>http://nekomeowww.github.io/2016/02/07/002-hello-hexo-plugins/</id>
     <published>2016-02-08T05:35:30.000Z</published>
     <updated>2016-09-21T03:32:01.000Z</updated>
     
@@ -896,23 +929,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="GitHub Blog" scheme="http://blog.cnenfu.com/categories/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/categories/GitHub-Blog/"/>
     
     
-      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Hexo" scheme="http://blog.cnenfu.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://nekomeowww.github.io/tags/Hexo/"/>
     
-      <category term="建站" scheme="http://blog.cnenfu.com/tags/%E5%BB%BA%E7%AB%99/"/>
+      <category term="建站" scheme="http://nekomeowww.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
     
-      <category term="GitHub Blog" scheme="http://blog.cnenfu.com/tags/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/tags/GitHub-Blog/"/>
     
   </entry>
   
   <entry>
     <title>建站帮助</title>
-    <link href="http://blog.cnenfu.com/2016/02/08/001-hello-hexo/"/>
-    <id>http://blog.cnenfu.com/2016/02/08/001-hello-hexo/</id>
+    <link href="http://nekomeowww.github.io/2016/02/07/001-hello-hexo/"/>
+    <id>http://nekomeowww.github.io/2016/02/07/001-hello-hexo/</id>
     <published>2016-02-08T02:20:30.000Z</published>
     <updated>2016-09-16T00:09:01.000Z</updated>
     
@@ -939,16 +972,16 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="GitHub Blog" scheme="http://blog.cnenfu.com/categories/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/categories/GitHub-Blog/"/>
     
     
-      <category term="指南" scheme="http://blog.cnenfu.com/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Hexo" scheme="http://blog.cnenfu.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://nekomeowww.github.io/tags/Hexo/"/>
     
-      <category term="建站" scheme="http://blog.cnenfu.com/tags/%E5%BB%BA%E7%AB%99/"/>
+      <category term="建站" scheme="http://nekomeowww.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
     
-      <category term="GitHub Blog" scheme="http://blog.cnenfu.com/tags/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/tags/GitHub-Blog/"/>
     
   </entry>
   
