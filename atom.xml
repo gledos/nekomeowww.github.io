@@ -4,9 +4,9 @@
   <subtitle>欢迎光临喵~</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://nekomeowww.github.io/"/>
+  <link href="https://neko.ayaka.moe/"/>
   <updated>2017-10-02T16:15:00.000Z</updated>
-  <id>http://nekomeowww.github.io/</id>
+  <id>https://neko.ayaka.moe/</id>
   
   <author>
     <name>Neko</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>网易云音乐 本地API指南</title>
-    <link href="http://nekomeowww.github.io/2017/10/03/024/"/>
-    <id>http://nekomeowww.github.io/2017/10/03/024/</id>
+    <link href="https://neko.ayaka.moe/2017/10/03/024/"/>
+    <id>https://neko.ayaka.moe/2017/10/03/024/</id>
     <published>2017-10-02T16:15:00.000Z</published>
     <updated>2017-10-02T16:15:00.000Z</updated>
     
@@ -29,8 +29,7 @@
 <li>data                              不明数据，在不同模式下会有不同值，示例值：34799039，dailyrecommend</li>
 <li>fid                               不明数据，fid，在正常播放模式下会有值</li>
 <li>id                                私人FM的ID，在非私人FM模式下，此处有一个长ID，字符串</li>
-<li><p>track                             track列，一个键值列表，其中包含曲目的详细数据</p>
-<ul>
+<li>track                             track列，一个键值列表，其中包含曲目的详细数据<ul>
 <li>name                           曲目名字</li>
 <li>id                             曲目ID</li>
 <li>position                       曲目在专辑中的曲目号，同<code>track.no</code></li>
@@ -56,8 +55,7 @@
 <li>userId                      用户ID，网易音乐人ID</li>
 </ul>
 </li>
-<li><p>album                          album列，一个键值列表，其中包含专辑的信息</p>
-<ul>
+<li>album                          album列，一个键值列表，其中包含专辑的信息<ul>
 <li>id                          专辑ID</li>
 <li>name                        专辑名字</li>
 <li>picId                       专辑图片ID</li>
@@ -140,6 +138,13 @@
 </ul>
 </li>
 <li>mMusic                        中品质音乐，一个键值列表<ul>
+<li>name                       名字</li>
+<li>id                         品质ID</li>
+<li>size                       文件大小</li>
+<li>extension                  文件扩展名</li>
+<li>sr                         采样率</li>
+<li>playTime                   长度</li>
+<li>dfsId_str                  不明数据</li>
 <li>bitrate                    比特率，中品质为160000</li>
 <li>dfsId                      不明数据，数字</li>
 <li>size                       文件大小，字节作为单位，byte，数字</li>
@@ -147,6 +152,13 @@
 </ul>
 </li>
 <li>lMusic                        低品质音乐，一个键值列表<ul>
+<li>name                       名字</li>
+<li>id                         品质ID</li>
+<li>size                       文件大小</li>
+<li>extension                  文件扩展名</li>
+<li>sr                         采样率</li>
+<li>playTime                   长度</li>
+<li>dfsId_str                  不明数据</li>
 <li>bitrate                    比特率，低品质为96000</li>
 <li>dfsId                      不明数据，数字</li>
 <li>size                       文件大小，字节作为单位，byte，数字</li>
@@ -181,11 +193,11 @@
 <li>lrcAbstractEnd                不明数据，歌词抽象结束</li>
 <li>lrcAbstractStart              不明数据，歌词抽象开始</li>
 <li>indexId                       不明数据，索引ID，数字</li>
-<li>haslyric                      是否有歌词的判定值，判定是否有歌词    </li>
-</ul>
-<ul>
+<li>haslyric                      是否有歌词的判定值，判定是否有歌词       <ul>
 <li>tid                             不明数据，同id</li>
-<li>radio                           电台，一个键值列表，不太详细的列表<ul>
+<li>radio                           电台，一个键值列表，不太详细的列表</li>
+</ul>
+</li>
 <li>dj                            DJ的名字，此处为null</li>
 <li>category                      分类，字符串</li>
 <li>buyed                         购买的判定值，这里指的应该是订阅与否</li>
@@ -211,8 +223,6 @@
 <li>name                          电台名字</li>
 <li>id                            电台ID</li>
 <li>subed                         订阅的判定值</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>program                          节目，一个键值列表，仅在电台条目下可用<ul>
@@ -387,6 +397,8 @@
 <li>href                          来源链接，字符串，专辑链接；私人FM播放模式示例值：/m/fm/?fromSource=1</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>text                             来源，多种可能性</li>
 <li>nickName                         来源作者，比如歌单作者</li>
 <li>userId                           作者ID</li>
@@ -401,8 +413,6 @@
 <li>qid                              不明数据，示例值：4937714_2_493807</li>
 <li>time                             时间，数字    </li>
 </ul>
-</li>
-</ul>
 <h1 id="备注部分"><a href="#备注部分" class="headerlink" title="备注部分"></a>备注部分</h1><h3 id="href的值"><a href="#href的值" class="headerlink" title="href的值"></a>href的值</h3><p>在专辑播放模式下：/m/album/?id=3428149&amp;rid=R_AL_3_3428149&amp;fromSource=1<br>在私人FM播放模式下：/m/fm<br>在电台播放模式下：/m/djradio/?id=828002&amp;fromSource=1<br>在每日推荐模式下：/m/dailysong/?fromSource=1<br>在搜索页下：/m/search/?type=1&amp;s=Kaine%20%2F%20Salvation&amp;fromSource=1<br>歌单：/m/playlist/?id=894355338&amp;rid=A_PL_0_894355338&amp;fromSource=1</p>
 ]]></content>
     
@@ -412,23 +422,23 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
+      <category term="Guide" scheme="https://neko.ayaka.moe/categories/Guide/"/>
     
     
-      <category term="Neko" scheme="http://nekomeowww.github.io/tags/Neko/"/>
+      <category term="Neko" scheme="https://neko.ayaka.moe/tags/Neko/"/>
     
-      <category term="网易云音乐" scheme="http://nekomeowww.github.io/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/"/>
+      <category term="网易云音乐" scheme="https://neko.ayaka.moe/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/"/>
     
-      <category term="网易云音乐API" scheme="http://nekomeowww.github.io/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90API/"/>
+      <category term="网易云音乐API" scheme="https://neko.ayaka.moe/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90API/"/>
     
-      <category term="API文档" scheme="http://nekomeowww.github.io/tags/API%E6%96%87%E6%A1%A3/"/>
+      <category term="API文档" scheme="https://neko.ayaka.moe/tags/API%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
   <entry>
     <title>吃糖什么的</title>
-    <link href="http://nekomeowww.github.io/2017/08/18/023/"/>
-    <id>http://nekomeowww.github.io/2017/08/18/023/</id>
+    <link href="https://neko.ayaka.moe/2017/08/18/023/"/>
+    <id>https://neko.ayaka.moe/2017/08/18/023/</id>
     <published>2017-08-17T22:37:00.000Z</published>
     <updated>2017-08-17T23:00:00.000Z</updated>
     
@@ -444,25 +454,25 @@
     
     </summary>
     
-      <category term="Living" scheme="http://nekomeowww.github.io/categories/Living/"/>
+      <category term="Living" scheme="https://neko.ayaka.moe/categories/Living/"/>
     
     
-      <category term="MtF" scheme="http://nekomeowww.github.io/tags/MtF/"/>
+      <category term="MtF" scheme="https://neko.ayaka.moe/tags/MtF/"/>
     
-      <category term="药娘" scheme="http://nekomeowww.github.io/tags/%E8%8D%AF%E5%A8%98/"/>
+      <category term="药娘" scheme="https://neko.ayaka.moe/tags/%E8%8D%AF%E5%A8%98/"/>
     
-      <category term="不存在的Tag" scheme="http://nekomeowww.github.io/tags/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84Tag/"/>
+      <category term="不存在的Tag" scheme="https://neko.ayaka.moe/tags/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84Tag/"/>
     
-      <category term="LGBTQIA" scheme="http://nekomeowww.github.io/tags/LGBTQIA/"/>
+      <category term="LGBTQIA" scheme="https://neko.ayaka.moe/tags/LGBTQIA/"/>
     
-      <category term="Neko" scheme="http://nekomeowww.github.io/tags/Neko/"/>
+      <category term="Neko" scheme="https://neko.ayaka.moe/tags/Neko/"/>
     
   </entry>
   
   <entry>
     <title>Formidine Rift的POI</title>
-    <link href="http://nekomeowww.github.io/2017/05/08/022/"/>
-    <id>http://nekomeowww.github.io/2017/05/08/022/</id>
+    <link href="https://neko.ayaka.moe/2017/05/08/022/"/>
+    <id>https://neko.ayaka.moe/2017/05/08/022/</id>
     <published>2017-05-07T20:38:22.000Z</published>
     <updated>2017-05-07T20:56:10.000Z</updated>
     
@@ -496,23 +506,23 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
+      <category term="Guide" scheme="https://neko.ayaka.moe/categories/Guide/"/>
     
     
-      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="https://neko.ayaka.moe/tags/Elite-Dangerous/"/>
     
-      <category term="Elite Dangerous Horizon" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous-Horizon/"/>
+      <category term="精英危险" scheme="https://neko.ayaka.moe/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
     
-      <category term="The Formidine Rift" scheme="http://nekomeowww.github.io/tags/The-Formidine-Rift/"/>
+      <category term="Elite Dangerous Horizon" scheme="https://neko.ayaka.moe/tags/Elite-Dangerous-Horizon/"/>
     
-      <category term="精英危险" scheme="http://nekomeowww.github.io/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
+      <category term="The Formidine Rift" scheme="https://neko.ayaka.moe/tags/The-Formidine-Rift/"/>
     
   </entry>
   
   <entry>
     <title>Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/25）</title>
-    <link href="http://nekomeowww.github.io/2017/01/21/019/"/>
-    <id>http://nekomeowww.github.io/2017/01/21/019/</id>
+    <link href="https://neko.ayaka.moe/2017/01/21/019/"/>
+    <id>https://neko.ayaka.moe/2017/01/21/019/</id>
     <published>2017-01-21T07:32:22.000Z</published>
     <updated>2017-01-21T07:40:22.000Z</updated>
     
@@ -540,21 +550,21 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
+      <category term="Guide" scheme="https://neko.ayaka.moe/categories/Guide/"/>
     
     
-      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="https://neko.ayaka.moe/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="https://neko.ayaka.moe/tags/Elite-Dangerous/"/>
     
-      <category term="Elite Dangerous Horizon" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous-Horizon/"/>
+      <category term="Elite Dangerous Horizon" scheme="https://neko.ayaka.moe/tags/Elite-Dangerous-Horizon/"/>
     
   </entry>
   
   <entry>
     <title>Elite Dangerous（精英危险）Reshade 3.0 设置</title>
-    <link href="http://nekomeowww.github.io/2017/01/19/017/"/>
-    <id>http://nekomeowww.github.io/2017/01/19/017/</id>
+    <link href="https://neko.ayaka.moe/2017/01/19/017/"/>
+    <id>https://neko.ayaka.moe/2017/01/19/017/</id>
     <published>2017-01-19T10:38:22.000Z</published>
     <updated>2017-01-19T10:38:22.000Z</updated>
     
@@ -600,31 +610,31 @@
     
     </summary>
     
-      <category term="Guide" scheme="http://nekomeowww.github.io/categories/Guide/"/>
+      <category term="Guide" scheme="https://neko.ayaka.moe/categories/Guide/"/>
     
     
-      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="https://neko.ayaka.moe/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Elite Dangerous" scheme="http://nekomeowww.github.io/tags/Elite-Dangerous/"/>
+      <category term="Elite Dangerous" scheme="https://neko.ayaka.moe/tags/Elite-Dangerous/"/>
     
-      <category term="精英危险" scheme="http://nekomeowww.github.io/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
+      <category term="精英危险" scheme="https://neko.ayaka.moe/tags/%E7%B2%BE%E8%8B%B1%E5%8D%B1%E9%99%A9/"/>
     
-      <category term="Reshade" scheme="http://nekomeowww.github.io/tags/Reshade/"/>
+      <category term="Reshade" scheme="https://neko.ayaka.moe/tags/Reshade/"/>
     
-      <category term="EDFX" scheme="http://nekomeowww.github.io/tags/EDFX/"/>
+      <category term="EDFX" scheme="https://neko.ayaka.moe/tags/EDFX/"/>
     
-      <category term="Reshade 3.0" scheme="http://nekomeowww.github.io/tags/Reshade-3-0/"/>
+      <category term="Reshade 3.0" scheme="https://neko.ayaka.moe/tags/Reshade-3-0/"/>
     
-      <category term="画面后期特效" scheme="http://nekomeowww.github.io/tags/%E7%94%BB%E9%9D%A2%E5%90%8E%E6%9C%9F%E7%89%B9%E6%95%88/"/>
+      <category term="画面后期特效" scheme="https://neko.ayaka.moe/tags/%E7%94%BB%E9%9D%A2%E5%90%8E%E6%9C%9F%E7%89%B9%E6%95%88/"/>
     
-      <category term="Graphic Post Effects" scheme="http://nekomeowww.github.io/tags/Graphic-Post-Effects/"/>
+      <category term="Graphic Post Effects" scheme="https://neko.ayaka.moe/tags/Graphic-Post-Effects/"/>
     
   </entry>
   
   <entry>
     <title>FactoCraft 大纲</title>
-    <link href="http://nekomeowww.github.io/2016/12/06/016/"/>
-    <id>http://nekomeowww.github.io/2016/12/06/016/</id>
+    <link href="https://neko.ayaka.moe/2016/12/06/016/"/>
+    <id>https://neko.ayaka.moe/2016/12/06/016/</id>
     <published>2016-12-06T15:38:22.000Z</published>
     <updated>2016-12-06T15:38:22.000Z</updated>
     
@@ -650,31 +660,31 @@
     
     </summary>
     
-      <category term="Thoughts" scheme="http://nekomeowww.github.io/categories/Thoughts/"/>
+      <category term="Thoughts" scheme="https://neko.ayaka.moe/categories/Thoughts/"/>
     
     
-      <category term="Java" scheme="http://nekomeowww.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://neko.ayaka.moe/tags/Java/"/>
     
-      <category term="Minecraft" scheme="http://nekomeowww.github.io/tags/Minecraft/"/>
+      <category term="Minecraft" scheme="https://neko.ayaka.moe/tags/Minecraft/"/>
     
-      <category term="Forge" scheme="http://nekomeowww.github.io/tags/Forge/"/>
+      <category term="Forge" scheme="https://neko.ayaka.moe/tags/Forge/"/>
     
-      <category term="FactoCraft" scheme="http://nekomeowww.github.io/tags/FactoCraft/"/>
+      <category term="FactoCraft" scheme="https://neko.ayaka.moe/tags/FactoCraft/"/>
     
-      <category term="Factorio" scheme="http://nekomeowww.github.io/tags/Factorio/"/>
+      <category term="Factorio" scheme="https://neko.ayaka.moe/tags/Factorio/"/>
     
-      <category term="Mod" scheme="http://nekomeowww.github.io/tags/Mod/"/>
+      <category term="Mod" scheme="https://neko.ayaka.moe/tags/Mod/"/>
     
-      <category term="笔记" scheme="http://nekomeowww.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://neko.ayaka.moe/tags/%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="编程" scheme="http://nekomeowww.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+      <category term="编程" scheme="https://neko.ayaka.moe/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>就个人对LGBT的观点</title>
-    <link href="http://nekomeowww.github.io/2016/09/23/015/"/>
-    <id>http://nekomeowww.github.io/2016/09/23/015/</id>
+    <link href="https://neko.ayaka.moe/2016/09/23/015/"/>
+    <id>https://neko.ayaka.moe/2016/09/23/015/</id>
     <published>2016-09-23T14:38:22.000Z</published>
     <updated>2017-01-30T15:38:22.000Z</updated>
     
@@ -836,35 +846,35 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Thoughts" scheme="http://nekomeowww.github.io/categories/Thoughts/"/>
+      <category term="Thoughts" scheme="https://neko.ayaka.moe/categories/Thoughts/"/>
     
     
-      <category term="LGBT" scheme="http://nekomeowww.github.io/tags/LGBT/"/>
+      <category term="LGBT" scheme="https://neko.ayaka.moe/tags/LGBT/"/>
     
-      <category term="宗教" scheme="http://nekomeowww.github.io/tags/%E5%AE%97%E6%95%99/"/>
+      <category term="宗教" scheme="https://neko.ayaka.moe/tags/%E5%AE%97%E6%95%99/"/>
     
-      <category term="同性恋" scheme="http://nekomeowww.github.io/tags/%E5%90%8C%E6%80%A7%E6%81%8B/"/>
+      <category term="同性恋" scheme="https://neko.ayaka.moe/tags/%E5%90%8C%E6%80%A7%E6%81%8B/"/>
     
-      <category term="双性恋" scheme="http://nekomeowww.github.io/tags/%E5%8F%8C%E6%80%A7%E6%81%8B/"/>
+      <category term="双性恋" scheme="https://neko.ayaka.moe/tags/%E5%8F%8C%E6%80%A7%E6%81%8B/"/>
     
-      <category term="跨性别者" scheme="http://nekomeowww.github.io/tags/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85/"/>
+      <category term="跨性别者" scheme="https://neko.ayaka.moe/tags/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85/"/>
     
-      <category term="Gays" scheme="http://nekomeowww.github.io/tags/Gays/"/>
+      <category term="Gays" scheme="https://neko.ayaka.moe/tags/Gays/"/>
     
-      <category term="Lesbians" scheme="http://nekomeowww.github.io/tags/Lesbians/"/>
+      <category term="Lesbians" scheme="https://neko.ayaka.moe/tags/Lesbians/"/>
     
-      <category term="Transgender" scheme="http://nekomeowww.github.io/tags/Transgender/"/>
+      <category term="Transgender" scheme="https://neko.ayaka.moe/tags/Transgender/"/>
     
-      <category term="MtF" scheme="http://nekomeowww.github.io/tags/MtF/"/>
+      <category term="MtF" scheme="https://neko.ayaka.moe/tags/MtF/"/>
     
-      <category term="Bisexuals" scheme="http://nekomeowww.github.io/tags/Bisexuals/"/>
+      <category term="Bisexuals" scheme="https://neko.ayaka.moe/tags/Bisexuals/"/>
     
   </entry>
   
   <entry>
     <title>原谅neko的歇斯底里</title>
-    <link href="http://nekomeowww.github.io/2016/06/06/014/"/>
-    <id>http://nekomeowww.github.io/2016/06/06/014/</id>
+    <link href="https://neko.ayaka.moe/2016/06/06/014/"/>
+    <id>https://neko.ayaka.moe/2016/06/06/014/</id>
     <published>2016-06-06T00:29:00.000Z</published>
     <updated>2017-01-20T20:46:30.000Z</updated>
     
@@ -880,19 +890,19 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Neko" scheme="http://nekomeowww.github.io/categories/Neko/"/>
+      <category term="Neko" scheme="https://neko.ayaka.moe/categories/Neko/"/>
     
     
-      <category term="难过" scheme="http://nekomeowww.github.io/tags/%E9%9A%BE%E8%BF%87/"/>
+      <category term="难过" scheme="https://neko.ayaka.moe/tags/%E9%9A%BE%E8%BF%87/"/>
     
-      <category term="文字" scheme="http://nekomeowww.github.io/tags/%E6%96%87%E5%AD%97/"/>
+      <category term="文字" scheme="https://neko.ayaka.moe/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
   <entry>
     <title>好想哭...</title>
-    <link href="http://nekomeowww.github.io/2016/06/06/013/"/>
-    <id>http://nekomeowww.github.io/2016/06/06/013/</id>
+    <link href="https://neko.ayaka.moe/2016/06/06/013/"/>
+    <id>https://neko.ayaka.moe/2016/06/06/013/</id>
     <published>2016-06-05T22:30:20.000Z</published>
     <updated>2017-01-20T20:44:03.000Z</updated>
     
@@ -911,23 +921,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Neko" scheme="http://nekomeowww.github.io/categories/Neko/"/>
+      <category term="Neko" scheme="https://neko.ayaka.moe/categories/Neko/"/>
     
     
-      <category term="难过" scheme="http://nekomeowww.github.io/tags/%E9%9A%BE%E8%BF%87/"/>
+      <category term="难过" scheme="https://neko.ayaka.moe/tags/%E9%9A%BE%E8%BF%87/"/>
     
-      <category term="随笔" scheme="http://nekomeowww.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://neko.ayaka.moe/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="发泄" scheme="http://nekomeowww.github.io/tags/%E5%8F%91%E6%B3%84/"/>
+      <category term="发泄" scheme="https://neko.ayaka.moe/tags/%E5%8F%91%E6%B3%84/"/>
     
-      <category term="人生" scheme="http://nekomeowww.github.io/tags/%E4%BA%BA%E7%94%9F/"/>
+      <category term="人生" scheme="https://neko.ayaka.moe/tags/%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
   <entry>
     <title>Minecraft大型项目招人通告</title>
-    <link href="http://nekomeowww.github.io/2016/05/02/012/"/>
-    <id>http://nekomeowww.github.io/2016/05/02/012/</id>
+    <link href="https://neko.ayaka.moe/2016/05/02/012/"/>
+    <id>https://neko.ayaka.moe/2016/05/02/012/</id>
     <published>2016-05-01T18:35:30.000Z</published>
     <updated>2016-09-21T04:15:01.000Z</updated>
     
@@ -940,25 +950,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Programming" scheme="http://nekomeowww.github.io/categories/Programming/"/>
+      <category term="Programming" scheme="https://neko.ayaka.moe/categories/Programming/"/>
     
     
-      <category term="Java" scheme="http://nekomeowww.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://neko.ayaka.moe/tags/Java/"/>
     
-      <category term="Minecraft" scheme="http://nekomeowww.github.io/tags/Minecraft/"/>
+      <category term="Minecraft" scheme="https://neko.ayaka.moe/tags/Minecraft/"/>
     
-      <category term="Forge" scheme="http://nekomeowww.github.io/tags/Forge/"/>
+      <category term="Forge" scheme="https://neko.ayaka.moe/tags/Forge/"/>
     
-      <category term="Minecraft Mod" scheme="http://nekomeowww.github.io/tags/Minecraft-Mod/"/>
+      <category term="Minecraft Mod" scheme="https://neko.ayaka.moe/tags/Minecraft-Mod/"/>
     
-      <category term="Forge API" scheme="http://nekomeowww.github.io/tags/Forge-API/"/>
+      <category term="Forge API" scheme="https://neko.ayaka.moe/tags/Forge-API/"/>
     
   </entry>
   
   <entry>
     <title>新设计的Logo =￣ω￣=</title>
-    <link href="http://nekomeowww.github.io/2016/04/17/011/"/>
-    <id>http://nekomeowww.github.io/2016/04/17/011/</id>
+    <link href="https://neko.ayaka.moe/2016/04/17/011/"/>
+    <id>https://neko.ayaka.moe/2016/04/17/011/</id>
     <published>2016-04-16T17:30:25.000Z</published>
     <updated>2017-01-20T20:39:02.000Z</updated>
     
@@ -975,25 +985,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
-      <category term="logo" scheme="http://nekomeowww.github.io/tags/logo/"/>
+      <category term="logo" scheme="https://neko.ayaka.moe/tags/logo/"/>
     
   </entry>
   
   <entry>
     <title>YouTube的新Banner</title>
-    <link href="http://nekomeowww.github.io/2016/04/17/010/"/>
-    <id>http://nekomeowww.github.io/2016/04/17/010/</id>
+    <link href="https://neko.ayaka.moe/2016/04/17/010/"/>
+    <id>https://neko.ayaka.moe/2016/04/17/010/</id>
     <published>2016-04-16T16:04:40.000Z</published>
     <updated>2017-01-20T20:38:02.000Z</updated>
     
@@ -1006,25 +1016,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
-      <category term="YouTube频道管理" scheme="http://nekomeowww.github.io/tags/YouTube%E9%A2%91%E9%81%93%E7%AE%A1%E7%90%86/"/>
+      <category term="YouTube频道管理" scheme="https://neko.ayaka.moe/tags/YouTube%E9%A2%91%E9%81%93%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · V 女神·土星和她的卫星</title>
-    <link href="http://nekomeowww.github.io/2016/03/23/009/"/>
-    <id>http://nekomeowww.github.io/2016/03/23/009/</id>
+    <link href="https://neko.ayaka.moe/2016/03/23/009/"/>
+    <id>https://neko.ayaka.moe/2016/03/23/009/</id>
     <published>2016-03-23T05:10:58.000Z</published>
     <updated>2017-01-20T20:20:03.000Z</updated>
     
@@ -1037,23 +1047,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · IV 我们的守护神·木星和她的卫星</title>
-    <link href="http://nekomeowww.github.io/2016/03/23/008/"/>
-    <id>http://nekomeowww.github.io/2016/03/23/008/</id>
+    <link href="https://neko.ayaka.moe/2016/03/23/008/"/>
+    <id>https://neko.ayaka.moe/2016/03/23/008/</id>
     <published>2016-03-23T05:04:58.000Z</published>
     <updated>2017-01-20T20:13:03.000Z</updated>
     
@@ -1068,23 +1078,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · III 岩石行星</title>
-    <link href="http://nekomeowww.github.io/2016/03/19/007/"/>
-    <id>http://nekomeowww.github.io/2016/03/19/007/</id>
+    <link href="https://neko.ayaka.moe/2016/03/19/007/"/>
+    <id>https://neko.ayaka.moe/2016/03/19/007/</id>
     <published>2016-03-19T06:04:58.000Z</published>
     <updated>2017-01-20T19:50:03.000Z</updated>
     
@@ -1097,23 +1107,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · 额外 火星和地球的手机壁纸</title>
-    <link href="http://nekomeowww.github.io/2016/03/18/006/"/>
-    <id>http://nekomeowww.github.io/2016/03/18/006/</id>
+    <link href="https://neko.ayaka.moe/2016/03/18/006/"/>
+    <id>https://neko.ayaka.moe/2016/03/18/006/</id>
     <published>2016-03-18T06:04:58.000Z</published>
     <updated>2017-01-20T18:49:03.000Z</updated>
     
@@ -1129,23 +1139,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · II 火星，我们的邻居</title>
-    <link href="http://nekomeowww.github.io/2016/03/18/005/"/>
-    <id>http://nekomeowww.github.io/2016/03/18/005/</id>
+    <link href="https://neko.ayaka.moe/2016/03/18/005/"/>
+    <id>https://neko.ayaka.moe/2016/03/18/005/</id>
     <published>2016-03-18T06:04:58.000Z</published>
     <updated>2017-01-20T18:44:02.000Z</updated>
     
@@ -1160,23 +1170,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>太阳系壁纸系列 · I 地球，我们的家</title>
-    <link href="http://nekomeowww.github.io/2016/03/17/004/"/>
-    <id>http://nekomeowww.github.io/2016/03/17/004/</id>
+    <link href="https://neko.ayaka.moe/2016/03/17/004/"/>
+    <id>https://neko.ayaka.moe/2016/03/17/004/</id>
     <published>2016-03-17T06:02:22.000Z</published>
     <updated>2017-01-20T17:02:38.000Z</updated>
     
@@ -1190,23 +1200,23 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/categories/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/categories/Design/"/>
     
     
-      <category term="平面设计" scheme="http://nekomeowww.github.io/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+      <category term="平面设计" scheme="https://neko.ayaka.moe/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="设计" scheme="http://nekomeowww.github.io/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="https://neko.ayaka.moe/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="UI设计" scheme="http://nekomeowww.github.io/tags/UI%E8%AE%BE%E8%AE%A1/"/>
+      <category term="UI设计" scheme="https://neko.ayaka.moe/tags/UI%E8%AE%BE%E8%AE%A1/"/>
     
-      <category term="Design" scheme="http://nekomeowww.github.io/tags/Design/"/>
+      <category term="Design" scheme="https://neko.ayaka.moe/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>Mac OS版 Battle.Net安装（战网客户端）</title>
-    <link href="http://nekomeowww.github.io/2016/02/23/003/"/>
-    <id>http://nekomeowww.github.io/2016/02/23/003/</id>
+    <link href="https://neko.ayaka.moe/2016/02/23/003/"/>
+    <id>https://neko.ayaka.moe/2016/02/23/003/</id>
     <published>2016-02-22T21:35:30.000Z</published>
     <updated>2016-09-21T03:40:01.000Z</updated>
     
@@ -1249,25 +1259,25 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="Mac OS" scheme="http://nekomeowww.github.io/categories/Mac-OS/"/>
+      <category term="Mac OS" scheme="https://neko.ayaka.moe/categories/Mac-OS/"/>
     
     
-      <category term="Battle.net" scheme="http://nekomeowww.github.io/tags/Battle-net/"/>
+      <category term="Battle.net" scheme="https://neko.ayaka.moe/tags/Battle-net/"/>
     
-      <category term="战网" scheme="http://nekomeowww.github.io/tags/%E6%88%98%E7%BD%91/"/>
+      <category term="战网" scheme="https://neko.ayaka.moe/tags/%E6%88%98%E7%BD%91/"/>
     
-      <category term="炉石传说" scheme="http://nekomeowww.github.io/tags/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4/"/>
+      <category term="炉石传说" scheme="https://neko.ayaka.moe/tags/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4/"/>
     
-      <category term="魔兽世界" scheme="http://nekomeowww.github.io/tags/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C/"/>
+      <category term="魔兽世界" scheme="https://neko.ayaka.moe/tags/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C/"/>
     
-      <category term="WOW" scheme="http://nekomeowww.github.io/tags/WOW/"/>
+      <category term="WOW" scheme="https://neko.ayaka.moe/tags/WOW/"/>
     
   </entry>
   
   <entry>
     <title>建站帮助（二）·插件</title>
-    <link href="http://nekomeowww.github.io/2016/02/08/002/"/>
-    <id>http://nekomeowww.github.io/2016/02/08/002/</id>
+    <link href="https://neko.ayaka.moe/2016/02/08/002/"/>
+    <id>https://neko.ayaka.moe/2016/02/08/002/</id>
     <published>2016-02-08T05:35:30.000Z</published>
     <updated>2016-09-21T03:32:01.000Z</updated>
     
@@ -1340,16 +1350,16 @@ With whole brand new starts.
     
     </summary>
     
-      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/categories/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="https://neko.ayaka.moe/categories/GitHub-Blog/"/>
     
     
-      <category term="指南" scheme="http://nekomeowww.github.io/tags/%E6%8C%87%E5%8D%97/"/>
+      <category term="指南" scheme="https://neko.ayaka.moe/tags/%E6%8C%87%E5%8D%97/"/>
     
-      <category term="Hexo" scheme="http://nekomeowww.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://neko.ayaka.moe/tags/Hexo/"/>
     
-      <category term="建站" scheme="http://nekomeowww.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+      <category term="建站" scheme="https://neko.ayaka.moe/tags/%E5%BB%BA%E7%AB%99/"/>
     
-      <category term="GitHub Blog" scheme="http://nekomeowww.github.io/tags/GitHub-Blog/"/>
+      <category term="GitHub Blog" scheme="https://neko.ayaka.moe/tags/GitHub-Blog/"/>
     
   </entry>
   
