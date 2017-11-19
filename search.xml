@@ -403,17 +403,37 @@
 </ul>
 <h1 id="备注部分"><a href="#备注部分" class="headerlink" title="备注部分"></a>备注部分</h1><h3 id="href的值"><a href="#href的值" class="headerlink" title="href的值"></a>href的值</h3><p>在专辑播放模式下：/m/album/?id=3428149&amp;rid=R_AL_3_3428149&amp;fromSource=1<br>在私人FM播放模式下：/m/fm<br>在电台播放模式下：/m/djradio/?id=828002&amp;fromSource=1<br>在每日推荐模式下：/m/dailysong/?fromSource=1<br>在搜索页下：/m/search/?type=1&amp;s=Kaine%20%2F%20Salvation&amp;fromSource=1<br>歌单：/m/playlist/?id=894355338&amp;rid=A_PL_0_894355338&amp;fromSource=1</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Guide </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Neko </tag>
+            
+            <tag> 网易云音乐 </tag>
+            
+            <tag> 网易云音乐API </tag>
+            
+            <tag> API文档 </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[Formidine Rift的POI]]></title>
       <url>https://neko.ayaka.moe/2017/05/08/022/</url>
-      <content type="html"><![CDATA[<p><strong>所有信息均源自：<a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4" target="_blank" rel="external">官方论坛 | THE FORMIDINE RIFT MYSTERY (Part 4)</a></strong></p>
-<p>The Formidine Rift 谜团：<br><a href="https://forums.frontier.co.uk/showthread.php/239212-The-Formidine-Rift-Part-2" target="_blank" rel="external">第二帖</a> | <a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28" target="_blank" rel="external">第三帖</a> | <a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4" target="_blank" rel="external">第四帖</a></p>
+      <content type="html"><![CDATA[<p><strong>所有信息均源自：<a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4" target="_blank" rel="noopener">官方论坛 | THE FORMIDINE RIFT MYSTERY (Part 4)</a></strong></p>
+<p>The Formidine Rift 谜团：<br><a href="https://forums.frontier.co.uk/showthread.php/239212-The-Formidine-Rift-Part-2" target="_blank" rel="noopener">第二帖</a> | <a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28" target="_blank" rel="noopener">第三帖</a> | <a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4" target="_blank" rel="noopener">第四帖</a></p>
 <h1 id="前往Formidine-Rift"><a href="#前往Formidine-Rift" class="headerlink" title="前往Formidine Rift"></a>前往Formidine Rift</h1><h2 id="中子星高速公路"><a href="#中子星高速公路" class="headerlink" title="中子星高速公路"></a>中子星高速公路</h2><p><img src="http://www.moepicx.cc/images/2017/05/07/0ab4f5fbaf314d5c9b56cbd04604c4e1.png" alt="EDSM的星图"><br><a id="more"></a><br>链接参考：</p>
 <ol>
-<li><a href="https://www.edsm.net/zh/galactic-routes/show/id/323/name/Bubble+to+Formidine+Rift+Neutron+Starway" target="_blank" rel="external">EDSM - Bubble to Formidine Rift Neutron Starway</a></li>
-<li><a href="https://www.reddit.com/r/EliteDangerous/comments/5diggj/neutron_highway_route_to_the_formidine_rift/" target="_blank" rel="external">Reddit - Neutron Highway Route to the Formidine Rift</a></li>
+<li><a href="https://www.edsm.net/zh/galactic-routes/show/id/323/name/Bubble+to+Formidine+Rift+Neutron+Starway" target="_blank" rel="noopener">EDSM - Bubble to Formidine Rift Neutron Starway</a></li>
+<li><a href="https://www.reddit.com/r/EliteDangerous/comments/5diggj/neutron_highway_route_to_the_formidine_rift/" target="_blank" rel="noopener">Reddit - Neutron Highway Route to the Formidine Rift</a></li>
 </ol>
 <h2 id="Formidine-Rift-ERP-001"><a href="#Formidine-Rift-ERP-001" class="headerlink" title="Formidine Rift(ERP 001)"></a>Formidine Rift(ERP 001)</h2><h3 id="星系-PLAA-AEC-IZ-N-C20-1"><a href="#星系-PLAA-AEC-IZ-N-C20-1" class="headerlink" title="星系: PLAA AEC IZ-N C20-1"></a>星系: PLAA AEC IZ-N C20-1</h3><p>Beacon around: A<br>Rally Point (settlement) on: <strong>A1A</strong><br>ALPHA SETTLEMENT FOUND by CMDR Raktavijan 15th Jan 3303:<br>坐标：<strong><strong>25.0029, 21.5814</strong></strong></p>
 <h3 id="星系-PLAA-AEC-XZ-Z-B41-0"><a href="#星系-PLAA-AEC-XZ-Z-B41-0" class="headerlink" title="星系: PLAA AEC XZ-Z B41-0"></a>星系: PLAA AEC XZ-Z B41-0</h3><p>Beacon around: A1<br>Rally Point (settlement) on: <strong>2</strong><br>BETA SETTLEMENT FOUND by CMDR Britain 27th Jan 3303<br>坐标：<strong><strong>36.38, -12.71</strong></strong></p>
@@ -427,29 +447,67 @@
 <h3 id="星系-EAFOTS-LZ-H-B10-0"><a href="#星系-EAFOTS-LZ-H-B10-0" class="headerlink" title="星系: EAFOTS LZ-H B10-0"></a>星系: EAFOTS LZ-H B10-0</h3><p>Beacon around: D<br>Rally Point (settlement) on: <strong>D1</strong><br>BETA SETTLEMENT FOUND: by CMDR JesusRocks1988 13th Jan 3303<br>坐标：<strong><strong>-23.0844, -174.8980</strong></strong></p>
 <h3 id="星系-EAFOTS-RA-G-B11-0"><a href="#星系-EAFOTS-RA-G-B11-0" class="headerlink" title="星系: EAFOTS RA-G B11-0"></a>星系: EAFOTS RA-G B11-0</h3><p>Beacon around: 3<br>Rally Point (settlement) on: <strong>3</strong><br>GAMMA SETTLEMENT FOUND by CMDR Sajime Chent-Shi 22nd Jan 3303<br>坐标：<strong><strong>-17.8731, -76.0522</strong></strong></p>
 <h3 id="星系-EAFOTS-GL-Y-E2"><a href="#星系-EAFOTS-GL-Y-E2" class="headerlink" title="星系: EAFOTS GL-Y E2"></a>星系: EAFOTS GL-Y E2</h3><p>Beacon around: A1<br>Rally Point (settlement) on: <strong>6</strong><br>DELTA SETTLEMENT FOUND: by CMDR AvvieXB1 26th Jan 3303<br>坐标：<strong><strong>21.2838, 19.0682</strong></strong></p>
-<h1 id="参考（英文）"><a href="#参考（英文）" class="headerlink" title="参考（英文）"></a>参考（英文）</h1><p><a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28?p=5049931&amp;viewfull=1#post5049931" target="_blank" rel="external">按照时间顺序排序的远征日志（Chronological order of expedition logs by Jaiotu）</a><br><a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28?p=4795147&amp;viewfull=1#post4795147" target="_blank" rel="external">解码信息的原始帖子（Original summary post with decoded transmissions）</a><br><a href="https://trello.com/b/DCTJoy8T/cor-rift-hawkin-s-and-conflux-ucbs" target="_blank" rel="external">Canonn Trello页面（Canonn Trello page）</a><br><a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4%28?p=5068224&amp;viewfull=1#post5068224" target="_blank" rel="external">寻找这些港站使用的技术（A technique used to find a couple of the outposts）</a><br><a href="https://www.drewwagar.com/downloads/ERGuidebook.pdf" target="_blank" rel="external">原著参考书</a></p>
+<h1 id="参考（英文）"><a href="#参考（英文）" class="headerlink" title="参考（英文）"></a>参考（英文）</h1><p><a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28?p=5049931&amp;viewfull=1#post5049931" target="_blank" rel="noopener">按照时间顺序排序的远征日志（Chronological order of expedition logs by Jaiotu）</a><br><a href="https://forums.frontier.co.uk/showthread.php/252932-So-you-want-to-know-about-the-Formidine-Rift-(Part-3%28?p=4795147&amp;viewfull=1#post4795147" target="_blank" rel="noopener">解码信息的原始帖子（Original summary post with decoded transmissions）</a><br><a href="https://trello.com/b/DCTJoy8T/cor-rift-hawkin-s-and-conflux-ucbs" target="_blank" rel="noopener">Canonn Trello页面（Canonn Trello page）</a><br><a href="https://forums.frontier.co.uk/showthread.php/324796-THE-FORMIDINE-RIFT-MYSTERY-(Part-4%28?p=5068224&amp;viewfull=1#post5068224" target="_blank" rel="noopener">寻找这些港站使用的技术（A technique used to find a couple of the outposts）</a><br><a href="https://www.drewwagar.com/downloads/ERGuidebook.pdf" target="_blank" rel="noopener">原著参考书</a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Guide </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Elite Dangerous </tag>
+            
+            <tag> 精英危险 </tag>
+            
+            <tag> Elite Dangerous Horizon </tag>
+            
+            <tag> The Formidine Rift </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[Elite Dangerous 2.203 炸无人机指南 [100M/h]（最后更新01/25）]]></title>
       <url>https://neko.ayaka.moe/2017/01/21/019/</url>
-      <content type="html"><![CDATA[<h1 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h1><p>之前17 Draconis有非常简单的炸无人机赚钱方式，今天刷YouTube的时候无意看到<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="external">David Hess</a>上传的关于如何做到每小时获利一亿CR的办法，自己也去实验了一下，仅仅是Cordial的声望等级，1个小时就能获利近4kw，这篇博客也算是补充一下怎么解决发电机吧。</p>
+      <content type="html"><![CDATA[<h1 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h1><p>之前17 Draconis有非常简单的炸无人机赚钱方式，今天刷YouTube的时候无意看到<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="noopener">David Hess</a>上传的关于如何做到每小时获利一亿CR的办法，自己也去实验了一下，仅仅是Cordial的声望等级，1个小时就能获利近4kw，这篇博客也算是补充一下怎么解决发电机吧。</p>
 <p><img src="http://www.moepicx.cc/images/2017/01/21/d55906bcbbcfc7515deee8c83cfb1917.jpg" alt=""></p>
 <a id="more"></a>
 <h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><h2 id="舰船配置"><a href="#舰船配置" class="headerlink" title="舰船配置"></a>舰船配置</h2><p>群里有人需要指南所以这里提供一下<br>准备好两组Dumbfire Missile Rack作为RPG，大船可以多带点，比如neko的Anaconda带了4个导弹舱，只是为了好玩2333，准备大于或等于8T的货仓，盾带好一点，毕竟地面站火力还是比较强，到此为止你的装备就一切就绪啦www</p>
 <p>HR 4637目前去的CMDR较多，任务较少，请等待更新其他星系。</p>
-<p><del>首先去<a href="https://eddb.io/system/9284" target="_blank" rel="external">HR 4637星系</a>的<a href="https://eddb.io/station/60022" target="_blank" rel="external">OZANNE TERMINAL地面站</a>；</del><br><del>另外地面站提供以下服务：</del><br><del><img src="http://www.moepicx.cc/images/2017/01/21/fdf43284c79ff609c1bf9663e6314bb8.jpg" alt=""></del><br><del>紧急配船可以考虑到隔壁的<a href="https://eddb.io/system/18804" target="_blank" rel="external">Wang Dana星系</a></del></p>
+<p><del>首先去<a href="https://eddb.io/system/9284" target="_blank" rel="noopener">HR 4637星系</a>的<a href="https://eddb.io/station/60022" target="_blank" rel="noopener">OZANNE TERMINAL地面站</a>；</del><br><del>另外地面站提供以下服务：</del><br><del><img src="http://www.moepicx.cc/images/2017/01/21/fdf43284c79ff609c1bf9663e6314bb8.jpg" alt=""></del><br><del>紧急配船可以考虑到隔壁的<a href="https://eddb.io/system/18804" target="_blank" rel="noopener">Wang Dana星系</a></del></p>
 <h2 id="任务接受"><a href="#任务接受" class="headerlink" title="任务接受"></a>任务接受</h2><h2 id="4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧"><a href="#4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧" class="headerlink" title="4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧"></a>4天前更新的星系目前任务较少，neko今晚再去看看哪里可以刷无人机吧</h2><p><del>在Ozanne Terminal的Mission Board（任务板）上可以找到类似的任务：</del><br><del><img src="http://www.moepicx.cc/images/2017/01/21/d55906bcbbcfc7515deee8c83cfb1917.jpg" alt=""></del><br><del>你会注意到在任务概览的右侧，有 <strong>地面站名字</strong> 以及几个加号，加号代表安全等级（如果neko没有记错的话），</del><br><del>因为+++的风险太高了，就算是大船也会有爆炸的风险，所以我们只接一个加号的任务即可www</del><br><del>也就是： <strong>Kagan Settlement +</strong> 的任务，任务一般都是 <strong>Clean out XXXXXX Sentry Skimmer</strong> 或者是 <strong>Corporate Strike Against XXXXX Sentry Skimmers</strong> 这样的任务。</del></p>
 <p><em>第一次去接任务直接接就好了，先把好感度刷起来，越刷越多</em></p>
-<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><p>堆叠满20个任务之后出发<br><img src="http://www.moepicx.cc/images/2017/01/21/6737fe9f09696025b23ec1abe53069c6.jpg" alt=""><br>实际操作如果有不明白的可以看这个B站视频教程：<a href="http://www.bilibili.com/video/av6840930/" target="_blank" rel="external">精英危险地平线2.2版本 猎杀地面无人机教程 关于反导系统请看简介</a></p>
+<h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><p>堆叠满20个任务之后出发<br><img src="http://www.moepicx.cc/images/2017/01/21/6737fe9f09696025b23ec1abe53069c6.jpg" alt=""><br>实际操作如果有不明白的可以看这个B站视频教程：<a href="http://www.bilibili.com/video/av6840930/" target="_blank" rel="noopener">精英危险地平线2.2版本 猎杀地面无人机教程 关于反导系统请看简介</a></p>
 <h2 id="注意守护船"><a href="#注意守护船" class="headerlink" title="注意守护船"></a>注意守护船</h2><p>看到了Python，先丢个舰载机出去；<br><img src="http://www.moepicx.cc/images/2017/01/21/b3501163e600e27086ee2915e540f151.jpg" alt=""><br>先不管这个Python，我们先去炸了发电机，这样轻松点。</p>
 <h3 id="发电机位置"><a href="#发电机位置" class="headerlink" title="发电机位置"></a>发电机位置</h3><p>发电机是这个：<br><img src="http://www.moepicx.cc/images/2017/01/21/bc408f27c42fd229bd96143d0c3879e0.jpg" alt=""><br>正对着的这个建筑物就是发电机，距离稍微远一点，然后炸，确保发电机炸了，去解决守护者。<br><img src="http://www.moepicx.cc/images/2017/01/21/66a3a8da6732e165ab3a23744c044c46.jpg" alt=""><br><img src="http://www.moepicx.cc/images/2017/01/21/64b0a36f85a08ee7ec38c16323d4aba2.jpg" alt=""><br>可怜的Python2333333</p>
 <p><em>此时发电机可能会重启，记得快点炸掉就好</em></p>
 <h2 id="炸无人机"><a href="#炸无人机" class="headerlink" title="炸无人机"></a>炸无人机</h2><p>现在就无脑炸吧~<br><img src="http://www.moepicx.cc/images/2017/01/21/2f24bbda8f051523142db26094636a2f.jpg" alt=""><br><img src="http://www.moepicx.cc/images/2017/01/21/11bb06b0b15cd666aa2e290175474467.jpg" alt=""><br><img src="http://www.moepicx.cc/images/2017/01/21/0974f0875ddd4abc25ca5e932c2c5cde.jpg" alt=""><br>不用小退，任务完美达成~<br><img src="http://www.moepicx.cc/images/2017/01/21/71f8ea710b6694aa12a55110e249ebbe.jpg" alt=""><br>现在回家交任务吧www</p>
 <p>希望各位CMDR能够活着炸完~</p>
-<h1 id="参考以及感谢"><a href="#参考以及感谢" class="headerlink" title="参考以及感谢"></a>参考以及感谢</h1><p>YouTube用户：<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="external">David Hess</a><br>他的视频源链接：<br><a href="https://www.youtube.com/watch?v=DqgqSAvrrVw" target="_blank" rel="external">Elite Dangerous - How to make billions very quickly part 1- see warning below</a><br><a href="https://www.youtube.com/watch?v=UP87zvg-KIs" target="_blank" rel="external">Elite Dangerous - How to make billions very quickly Part 2</a></p>
+<h1 id="参考以及感谢"><a href="#参考以及感谢" class="headerlink" title="参考以及感谢"></a>参考以及感谢</h1><p>YouTube用户：<a href="https://www.youtube.com/channel/UCoo9A9cEh1Vg4Lm0IYB8_nQ" target="_blank" rel="noopener">David Hess</a><br>他的视频源链接：<br><a href="https://www.youtube.com/watch?v=DqgqSAvrrVw" target="_blank" rel="noopener">Elite Dangerous - How to make billions very quickly part 1- see warning below</a><br><a href="https://www.youtube.com/watch?v=UP87zvg-KIs" target="_blank" rel="noopener">Elite Dangerous - How to make billions very quickly Part 2</a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Guide </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 指南 </tag>
+            
+            <tag> Elite Dangerous </tag>
+            
+            <tag> Elite Dangerous Horizon </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -463,7 +521,7 @@
 <h2 id="使用感受"><a href="#使用感受" class="headerlink" title="使用感受"></a>使用感受</h2><p>原本之前Neko有一个更好的配置文件（配置特效的各项数值），后来一次探索的过程中错误的拖移了那个数值…没记住之前的默认数值，后来只能用现在这个饱和度超级高的配置文件*。<br>综合所有Reshade带来的画质提升，Reshade是一款很好的画质加强辅助软件，如果你有学过摄影或者懂得如何使用Adobe Premiere Pro，那么Reshade就像是给游戏套上了一个完全自由和完全自定义的滤镜系统。相比其他来说，目前Reshade似乎是唯一一个能实时调整数值的画质加强软件呢。关于探索的截图，上面的对比图应该已经很明显了吧，虽然马上要更新的2.3自带一个官方提供的景深，但是如果迫不及待想要和小伙伴分享你的景深截图的话，Reshade可以帮你一把；除了景深以外就是饱和度和曝光度的提升，如果你设置了全局快捷键，你可以试试看对比一下原版ED和安装Reshade之后的样子，Reshade更加鲜艳一点，阴影部分更加黑暗，亮光部分更亮，而不是原版ED这样看似简单的色彩系统（这里Neko的意思是，ED自带的系统已经很完善了，因为优化等原因，FDDev可能删除了这些小功能，而不是说ED画质很差，不过无论如何Reshade可以补足这一点）。</p>
 <h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><h3 id="官网直链"><a href="#官网直链" class="headerlink" title="官网直链"></a>官网直链</h3><p>先去Reshade的官网吧：<a href="reshade.me">reshade.me</a>（国内应该是不能直接访问到这里的，建议开一个VPN，如果实在没有VPN也没有关系，Neko会将必要的文件上传到百度云公开下载XD）<br><strong>这个就是Reshade的官网啦：</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/5c76762d96e1a3632c9142e64aa4c194.png" alt=""></p>
 <p><strong>这里点击Download就可以下载，如果没有VPN的小伙伴继续往下看</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/a520a0252b6a5b034877595f48778e0a.png" alt=""></p>
-<h3 id="百度云分享链接"><a href="#百度云分享链接" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h3><p>链接: <a href="http://pan.baidu.com/s/1i4GZFrJ" target="_blank" rel="external">http://pan.baidu.com/s/1i4GZFrJ</a> 密码: p97u</p>
+<h3 id="百度云分享链接"><a href="#百度云分享链接" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h3><p>链接: <a href="http://pan.baidu.com/s/1i4GZFrJ" target="_blank" rel="noopener">http://pan.baidu.com/s/1i4GZFrJ</a> 密码: p97u</p>
 <h2 id="安装到Elite-Dangerous"><a href="#安装到Elite-Dangerous" class="headerlink" title="安装到Elite: Dangerous"></a>安装到Elite: Dangerous</h2><p>下载之后就可以打开这个安装文件（其实应该叫部署文件）<br><img src="http://www.moepicx.cc/images/2017/03/31/2f53c4aaea373e714b7d0b3d7d1424bd.png" alt=""></p>
 <p>在这里我们先选择<strong>Select Game</strong>，然后在选择游戏的窗口中找到你的elitedangerous64.exe。<br>Neko的Elite Dangerous是Steam安装的，那么一般文件会在<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">你的硬盘:\SteamLibrary\steamapps\common\Elite Dangerous\Products\elite-dangerous-64</div></pre></td></tr></table></figure></p>
 <p><img src="http://www.moepicx.cc/images/2017/03/31/cb34eaa9e401faf4bbe0e506695fe8b6.png" alt=""></p>
@@ -475,7 +533,7 @@
 <p><strong>然后点“OK”</strong></p>
 <h3 id="如果你没有VPN请跟随这一步"><a href="#如果你没有VPN请跟随这一步" class="headerlink" title="如果你没有VPN请跟随这一步"></a>如果你没有VPN请跟随这一步</h3><p><strong>点击“否”</strong><br><img src="http://www.moepicx.cc/images/2017/03/31/5cd2afa25babce1484a3facc0b83e294.png" alt=""></p>
 <p>这样就表示安装结束。<br>然后来百度云这里下载</p>
-<h4 id="百度云分享链接-1"><a href="#百度云分享链接-1" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h4><p>链接: <a href="http://pan.baidu.com/s/1eSoVLtS" target="_blank" rel="external">http://pan.baidu.com/s/1eSoVLtS</a> 密码: xc8t，或者可以通过上面的百度云链接进去，<br>点击Shaders Folder，把压缩文件下载下来。<br>进入到你的Elite Dangerous根目录（…\Elite Dangerous\Products\elite-dangerous-64），把压缩文件解压到这里即可<br><img src="http://www.moepicx.cc/images/2017/03/31/ad2fb7f6d5d01419b82c110765d31925.png" alt=""><br>然后你现在只需要进入游戏就可以实时配置你的效果。<br>配置教程请继续往下阅读。</p>
+<h4 id="百度云分享链接-1"><a href="#百度云分享链接-1" class="headerlink" title="百度云分享链接"></a>百度云分享链接</h4><p>链接: <a href="http://pan.baidu.com/s/1eSoVLtS" target="_blank" rel="noopener">http://pan.baidu.com/s/1eSoVLtS</a> 密码: xc8t，或者可以通过上面的百度云链接进去，<br>点击Shaders Folder，把压缩文件下载下来。<br>进入到你的Elite Dangerous根目录（…\Elite Dangerous\Products\elite-dangerous-64），把压缩文件解压到这里即可<br><img src="http://www.moepicx.cc/images/2017/03/31/ad2fb7f6d5d01419b82c110765d31925.png" alt=""><br>然后你现在只需要进入游戏就可以实时配置你的效果。<br>配置教程请继续往下阅读。</p>
 <h1 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h1><p>配置对于不懂英文的小伙伴来说有点吃力，但是一般自己拖动一下数据（一定要记住默认数值），随便玩玩还是能理解每一个特效的意义的。</p>
 <h2 id="如何打开配置界面？"><a href="#如何打开配置界面？" class="headerlink" title="如何打开配置界面？"></a>如何打开配置界面？</h2><p>在游戏中按Shift + F2即可。<br><img src="http://www.moepicx.cc/images/2017/03/31/5c33a8f1c1e43e09d8f472def99f3bcf.png" alt=""></p>
 <h2 id="配置教程"><a href="#配置教程" class="headerlink" title="配置教程"></a>配置教程</h2><p>第一次进入会要求你过一遍教程：<br>我们点击这个 <strong>Continue</strong></p>
@@ -489,6 +547,34 @@
 <h4 id="问：为什么游戏打不开了？（黑屏、闪退）"><a href="#问：为什么游戏打不开了？（黑屏、闪退）" class="headerlink" title="问：为什么游戏打不开了？（黑屏、闪退）"></a>问：为什么游戏打不开了？（黑屏、闪退）</h4><p>答：这样的问题一般不是因为安装出错，是因为电脑硬件不适配。相关问题还是要交给Reshade的开发者，如果不知道如何在GitHub上提出Bug反馈，也可以直接联系Neko的邮箱：neko@amineko.me。</p>
 <h4 id="问：我不想用Reshade了，怎么删除？"><a href="#问：我不想用Reshade了，怎么删除？" class="headerlink" title="问：我不想用Reshade了，怎么删除？"></a>问：我不想用Reshade了，怎么删除？</h4><p>答：把根目录下的dxgi.dll删除即可。</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Guide </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 指南 </tag>
+            
+            <tag> Elite Dangerous </tag>
+            
+            <tag> 精英危险 </tag>
+            
+            <tag> Reshade </tag>
+            
+            <tag> EDFX </tag>
+            
+            <tag> Reshade 3.0 </tag>
+            
+            <tag> 画面后期特效 </tag>
+            
+            <tag> Graphic Post Effects </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -506,9 +592,37 @@
 </ol>
 <h2 id="生产调整"><a href="#生产调整" class="headerlink" title="生产调整"></a>生产调整</h2><p>是否遵循Factorio原本的生产配方？</p>
 <h2 id="科技树调整"><a href="#科技树调整" class="headerlink" title="科技树调整"></a>科技树调整</h2><p>在物流中提到过。</p>
-<h1 id="更新信息"><a href="#更新信息" class="headerlink" title="更新信息"></a>更新信息</h1><p>2016年12月07日<br>第一次在GitHub的commit<br><a href="https://github.com/factocraft/factocraft-mod/commit/4b869d48b5f1104cbc12833367f47d151ac21db4" target="_blank" rel="external">commit -4b869d4-</a></p>
+<h1 id="更新信息"><a href="#更新信息" class="headerlink" title="更新信息"></a>更新信息</h1><p>2016年12月07日<br>第一次在GitHub的commit<br><a href="https://github.com/factocraft/factocraft-mod/commit/4b869d48b5f1104cbc12833367f47d151ac21db4" target="_blank" rel="noopener">commit -4b869d4-</a></p>
 <p>如果有什么意见和建议的话，可以在下面的Disqus中回复www</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Thoughts </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> Forge </tag>
+            
+            <tag> FactoCraft </tag>
+            
+            <tag> Factorio </tag>
+            
+            <tag> Mod </tag>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> 编程 </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -520,44 +634,44 @@
 <p>不知道为什么突然LGBT话题突然就这么热门起来了，几周前我们American Government and Economy课上就讨论了相关的内容。那天那节课可谓是我有话说不出（在犹他州这边不论是LGBT的哪一种，都是一个人的一种 <em>罪行 sin</em> ，如果说明了就有可能导致我被拉去做心理辅导什么的23333），我个人基本是和整个课堂的人持相反态度的；后来也遇到了一些不懂得理解LGBT，不为LGBT换位思考的人，拿这个东西开玩笑的事情，想了想不如留一份个人感想在博客里面吧2333333。<br><a id="more"></a><br><em>希望每个人，你，在阅读这篇文章的时候，能够抛开对宗教的偏见（我知道有很多人反感摩尔门教，我个人也不会推崇这个宗教，我提到它的原因是我生活的地方，就是犹他州），能够抛开对LGBT的偏见，能够先沉住气看完整篇文章，最后站在客观的角度来讨论。鄙人不能说理解了整个精神学或者心理学，也不能说理解了摩尔门教的很多东西（我不是信徒，只是一个尊敬他们宗教的路人），如果有什么错误，希望见谅。</em></p>
 <h1 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h1><h2 id="什么是LGBT"><a href="#什么是LGBT" class="headerlink" title="什么是LGBT"></a>什么是LGBT</h2><p>不论怎么说先解释一下好了（虽然觉得能搜索到这篇文章的人都应该是懂得LGBT的）</p>
 <blockquote>
-<p>从维基百科上来看的话：<br>LGBT是女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）的英文首字母缩略字。<br><a href="https://zh.wikipedia.org/wiki/LGBT" target="_blank" rel="external">@LGBT·维基</a></p>
+<p>从维基百科上来看的话：<br>LGBT是女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）的英文首字母缩略字。<br><a href="https://zh.wikipedia.org/wiki/LGBT" target="_blank" rel="noopener">@LGBT·维基</a></p>
 </blockquote>
 <h2 id="为什么中国的传统思想和犹他州的摩尔门教教义不认可LGBT"><a href="#为什么中国的传统思想和犹他州的摩尔门教教义不认可LGBT" class="headerlink" title="为什么中国的传统思想和犹他州的摩尔门教教义不认可LGBT"></a>为什么中国的传统思想和犹他州的摩尔门教教义不认可LGBT</h2><h3 id="中国"><a href="#中国" class="headerlink" title="中国"></a>中国</h3><p>先说说中国的传统思想吧。同性恋其实一直都存在，并不是现代社会造成的（虽然也有一部分原因，我后面会说）自古中国就有记录同性恋，通常称之为：男色或男风。<br>维基百科上有写道关于记载和提及男男相爱的相关著作：</p>
 <blockquote>
-<p>中国早期史书，如逸周书、战国策就传有“美男破老、美女破舌”的说法，将男风与女色相提并论。有学者甚至主张，中国最早诗歌总集《诗经》部分篇章为“两男相悦”之作。春秋战国时期，弥子瑕与卫君余桃、龙阳君泣鱼固宠，以及两汉时期，汉哀帝不忍惊醒董贤断袖而起的事迹，皆为后世津津乐道的男风典故。<br>明清时期，著名中国古典小说《聊斋志异》、《红楼梦》、《金瓶梅》对于男性好男风一事同样有所描写，当时还出版专门叙述男男欢好性事的中篇小说集《宜春香质》、《弁而钗》、《龙阳逸史》，文雅赞美男风情谊的小说《品花宝鉴》，以及收录历史上各种男风外宠事例的《断袖篇》。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="external">@中国同性恋史·维基</a></p>
+<p>中国早期史书，如逸周书、战国策就传有“美男破老、美女破舌”的说法，将男风与女色相提并论。有学者甚至主张，中国最早诗歌总集《诗经》部分篇章为“两男相悦”之作。春秋战国时期，弥子瑕与卫君余桃、龙阳君泣鱼固宠，以及两汉时期，汉哀帝不忍惊醒董贤断袖而起的事迹，皆为后世津津乐道的男风典故。<br>明清时期，著名中国古典小说《聊斋志异》、《红楼梦》、《金瓶梅》对于男性好男风一事同样有所描写，当时还出版专门叙述男男欢好性事的中篇小说集《宜春香质》、《弁而钗》、《龙阳逸史》，文雅赞美男风情谊的小说《品花宝鉴》，以及收录历史上各种男风外宠事例的《断袖篇》。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="noopener">@中国同性恋史·维基</a></p>
 </blockquote>
 <p>再有民国时期西方文化的引入带来了“同性恋”是“病”的基本概念，然后潜移默化般影响了我们本身：</p>
 <blockquote>
-<p>到了民国时期，“同性恋”一词和围绕在该词的医学理论传播至中国，逐渐促成对同性恋的污名和病理化。当时被译介至中国的西方性学家，包括赫希菲尔德、艾利斯、布洛赫、埃宾、佛洛伊德和卡本特等人。在这些翻译作品中，不只有将同性恋病理化的论述，也呈现了卡本特把同性爱当作一种高贵情感的观点，尽管在1920年代之后，赞颂同性恋的论述变得愈来愈弱，病理学的论述则占据了主流地位。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="external">@中国同性恋史·维基</a></p>
+<p>到了民国时期，“同性恋”一词和围绕在该词的医学理论传播至中国，逐渐促成对同性恋的污名和病理化。当时被译介至中国的西方性学家，包括赫希菲尔德、艾利斯、布洛赫、埃宾、佛洛伊德和卡本特等人。在这些翻译作品中，不只有将同性恋病理化的论述，也呈现了卡本特把同性爱当作一种高贵情感的观点，尽管在1920年代之后，赞颂同性恋的论述变得愈来愈弱，病理学的论述则占据了主流地位。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="noopener">@中国同性恋史·维基</a></p>
 </blockquote>
 <p>也就是说，民国时期是一个比较重要的节点：我们在我们的主观认知上“烙印下”“<em>同性恋</em>”是一种病的程度,越来越深（原谅我这个中文表达，附上英文：We went more deeply and more strongly into the form of knowing that HOMOSEXUAL must be a disease inside our brain.）。Normally，这个应该是初步的影响，在Culture Revolution之后，民众的基础知识水平下降，在科学普及的时候（当时的那个时期，心理学家和众多科学家认为同性恋是一种疾病，或者说综合症），他们很容易的接受了 <em>同性恋是疾病</em> 的观点；相应的，对于自己的儿女，对他们的教育也应该是“<em>同性恋是疾病</em>”。<br>从上面我们获得的事实和我们自己得出的结论中，我们大概可以改一下我们的小标题：为什么中国的传统思想和犹他州的摩尔门教教义不认可LGBT；从某种方面来说，并不是传统思想（传统观念）的问题，而是大众认知的问题。这里稍微跑题一下说明一个比较重要的名词：从众心理</p>
 <blockquote>
-<p>人们受到多数人一致性思想或行动的影响，而跟从大众的思想或行为，常被称为“羊群效应”。从众效应是诉诸群众谬误的基础。<a href="https://zh.wikipedia.org/wiki/%E5%BE%9E%E7%9C%BE%E6%95%88%E6%87%89" target="_blank" rel="external">@从众效应·维基</a></p>
+<p>人们受到多数人一致性思想或行动的影响，而跟从大众的思想或行为，常被称为“羊群效应”。从众效应是诉诸群众谬误的基础。<a href="https://zh.wikipedia.org/wiki/%E5%BE%9E%E7%9C%BE%E6%95%88%E6%87%89" target="_blank" rel="noopener">@从众效应·维基</a></p>
 </blockquote>
 <p>我们大概也可以说，从众心理也是一个因素，导致目前很多人都“表现得”像是不支持LGBT一样。大概也是一种生存方式，毕竟人有一个比较大的特性（不能说是缺点，但是也不能说是优点，一种生存本能）：<br>当我们周围的人表现出了不符合我们主观意识或者说不符合我们普遍的规则的事情，我们便会产生厌恶感（也可以说是威胁感）。<br>从进化论和生存方面来考虑，这是有益于我们生存下去的一个特性，比如一个在我们群体之中的人患病了，在原始社会形态下，我们唯一的本能选择就是远离这个个体然后生存下去。当然在这里我不是说同性恋是病态，我说的意思是同性恋不符合我们的主观意识，但是为了在现在的“原始社会（也就是我们的大社会）”环境下生存下去，或许只有表现得和普通人一样，我们才能获得别人的肯定。就比如T吧，比如MTF（男性变女性），目前按照我们的主观思想，我们还留有一点点“父系社会”的本性，认为男性是绝对的能力象征，女性就是相比男性懦弱的，相对应的，<em>跨性别</em> 在平常人的眼中就成了一种可以用“变态”，“神经病”词语来形容的人；并不是，即便在过去我们认为男性去干活，女性在家打理家务就好（其实一直到二战，依然存在女性不公平对待的现象），但是现在我们可以看得到有很多人在为女权而到处奋斗着，也就是是我们的前进目标：<em>性别平等</em>，回到我在一开始所说的那句话：“性别平等必定会带来性别模糊”；通常情况下（个人猜想，无准确统计数据）我认为一个人是不会首选暴露自己的MTF（或者FTM）倾向的，仅仅只是个别关系极好的朋友才会说出来。问题就出在，大部分人都在隐瞒着事实，为了能够正常的生存下去，为了能够接受别人的肯定，直到我们重新定义了LGBT，才会有这么一个大团体去为这四个组合的权利而奋斗。<br>看看上个世纪我们如何看待同性恋和其他一些独特的性别认同组合，大多数都是被迫害，被强迫治疗，被…等等等等。<br>说说国内的政策和管制措施吧：</p>
 <blockquote>
-<p>尽管如此，在两岸分治时期，政府对于同性恋或同性间性行为的司法管制却真实存在过，中国共产党政府将同性恋视为流氓罪中的“其他流氓行为”，中国国民党政府则以“违警罚法”中的“妨害风俗”之名予以拘留。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="external">@中国同性恋史·维基</a></p>
+<p>尽管如此，在两岸分治时期，政府对于同性恋或同性间性行为的司法管制却真实存在过，中国共产党政府将同性恋视为流氓罪中的“其他流氓行为”，中国国民党政府则以“违警罚法”中的“妨害风俗”之名予以拘留。<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="noopener">@中国同性恋史·维基</a></p>
 </blockquote>
 <p>以及：</p>
 <blockquote>
-<p>在中华人民共和国，《中华人民共和国刑法》各版中均没有明确将同性性行为定为犯罪的条文，但也没有受到法律保护，且大多数中国人对同性性行为仍然持反感态度。1983年至1996年间，同性恋行为被中华人民共和国卫生部定为一种变态心理的神经疾病；期间，大型的、在公共场合的、聚众性质的同性恋行为（如舞厅、酒吧、卖淫等）被定为流氓罪。2001年4月20日，卫生部《CCMD-3 中国精神障碍分类与诊断标准》第三版出版，诊断标准中对同性恋的定义将非常详细，指同性恋的性活动并非一定是心理异常。<a href="https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80" target="_blank" rel="external">@同性恋·维基</a></p>
+<p>在中华人民共和国，《中华人民共和国刑法》各版中均没有明确将同性性行为定为犯罪的条文，但也没有受到法律保护，且大多数中国人对同性性行为仍然持反感态度。1983年至1996年间，同性恋行为被中华人民共和国卫生部定为一种变态心理的神经疾病；期间，大型的、在公共场合的、聚众性质的同性恋行为（如舞厅、酒吧、卖淫等）被定为流氓罪。2001年4月20日，卫生部《CCMD-3 中国精神障碍分类与诊断标准》第三版出版，诊断标准中对同性恋的定义将非常详细，指同性恋的性活动并非一定是心理异常。<a href="https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80" target="_blank" rel="noopener">@同性恋·维基</a></p>
 </blockquote>
 <p>直到1991年</p>
 <blockquote>
-<p>到1991年，中华民国政府终止动员戡乱废止“违警罚法”，限缩警察权力。1997年，中华人民共和国政府废除了流氓罪。2001年，同性恋从中华人民共和国官方的精神障碍名单中删除 <a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="external">@中国同性恋史·维基</a></p>
+<p>到1991年，中华民国政府终止动员戡乱废止“违警罚法”，限缩警察权力。1997年，中华人民共和国政府废除了流氓罪。2001年，同性恋从中华人民共和国官方的精神障碍名单中删除 <a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="noopener">@中国同性恋史·维基</a></p>
 </blockquote>
-<p>即便如此，在这个时间段，整个世界依然有很多国家禁止、反对同性恋（感觉以前的B和T还不是这么的活跃，都比较谨慎和小心），比如这部 <em>比较触动我的一部稍微提及LGBT权益的电影是<a href="https://movie.douban.com/subject/10463953/" target="_blank" rel="external">模仿游戏</a> <a href="http://www.imdb.com/title/tt2084970/" target="_blank" rel="external">The Imitation Game</a></em> ，当时看的时候…感觉还是很惨的吧，一个天才就因为错误的法律条文审判和医学定义而…崩溃到自杀。<br>纪念 Alan Truing。</p>
+<p>即便如此，在这个时间段，整个世界依然有很多国家禁止、反对同性恋（感觉以前的B和T还不是这么的活跃，都比较谨慎和小心），比如这部 <em>比较触动我的一部稍微提及LGBT权益的电影是<a href="https://movie.douban.com/subject/10463953/" target="_blank" rel="noopener">模仿游戏</a> <a href="http://www.imdb.com/title/tt2084970/" target="_blank" rel="noopener">The Imitation Game</a></em> ，当时看的时候…感觉还是很惨的吧，一个天才就因为错误的法律条文审判和医学定义而…崩溃到自杀。<br>纪念 Alan Truing。</p>
 <p>综上所述，为什么中国国内在传统思想下并不接受LGBT？因为在民国时期引进的西医将“同性恋”解释为病态的，同时也违背了主观思想：“繁衍后代”，在接下来的80年（直到2000年左右），国人逐渐习惯了这种错误的概念。2001年移除之后，加上社会的开放，中国LGBT也就越来越活跃（我个人还是比较反感同性恋酒吧的那些恶人的…当然我不能一口否定说他们都不好，大概也算是一个聚集地吧，类似于归宿一样的东西）。</p>
-<h3 id="犹他州摩尔门教"><a href="#犹他州摩尔门教" class="headerlink" title="犹他州摩尔门教"></a>犹他州摩尔门教</h3><p><em>如果你问我为什么只谈摩尔门教，我只能说：我基本上每天都生活在犹他州，周围都是摩尔门教的信徒，对他们的教义有一定的理解。毕竟我不能不懂装懂去猜测其他宗教对于LGBT的看法。</em><br>基本上在整个9月份，我们的主课最受欢迎的话题就是两个：美国大选和同性婚姻；美国大选我也就不用再多说了。直接进入话题吧。摩尔门教的教义主要靠：<a href="https://www.lds.org/scriptures/pgp?lang=zho" target="_blank" rel="external">无价珍珠</a>、<a href="https://www.lds.org/scriptures/bofm?lang=zho" target="_blank" rel="external">摩尔门经</a>、<a href="https://www.lds.org/scriptures/dc-testament?lang=zho" target="_blank" rel="external">教义和圣约</a>这三本书（一般装订成一大本厚厚的经文。）要从这三本书中找到确凿的明文说反对同性婚姻的确实太难，我会慢慢的寻找，但是摩尔门教主要关心的目标是：家庭。这也就说明了他们希望异性婚姻占有主导地位，他们希望每个人都有家庭，他们不希望家庭渐渐从人们心中消失。</p>
-<p>先说说摩尔门教是什么吧。<br>摩尔门教又叫<a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A9%8C%E5%9F%BA%E7%9D%A3%E5%BE%8C%E6%9C%9F%E8%81%96%E5%BE%92%E6%95%99%E6%9C%83" target="_blank" rel="external">耶稣基督后期圣徒教会</a>，一般情况下，他们都说自己是LDS（The Church of Jesus Christ of Latter-day Saints，耶稣基督后期圣徒教会）的教徒，我不知道台湾同胞和香港同胞怎么称呼自己，但是英文中，简称LDS；和基督教有很多不同，首先摩尔门教即便和基督教一样使用圣经，但是在经文中有很多不同，而且摩尔门教主要的经文还是摩尔门经；另外，基督教主张：<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94" target="_blank" rel="external">三位一体</a>：</p>
+<h3 id="犹他州摩尔门教"><a href="#犹他州摩尔门教" class="headerlink" title="犹他州摩尔门教"></a>犹他州摩尔门教</h3><p><em>如果你问我为什么只谈摩尔门教，我只能说：我基本上每天都生活在犹他州，周围都是摩尔门教的信徒，对他们的教义有一定的理解。毕竟我不能不懂装懂去猜测其他宗教对于LGBT的看法。</em><br>基本上在整个9月份，我们的主课最受欢迎的话题就是两个：美国大选和同性婚姻；美国大选我也就不用再多说了。直接进入话题吧。摩尔门教的教义主要靠：<a href="https://www.lds.org/scriptures/pgp?lang=zho" target="_blank" rel="noopener">无价珍珠</a>、<a href="https://www.lds.org/scriptures/bofm?lang=zho" target="_blank" rel="noopener">摩尔门经</a>、<a href="https://www.lds.org/scriptures/dc-testament?lang=zho" target="_blank" rel="noopener">教义和圣约</a>这三本书（一般装订成一大本厚厚的经文。）要从这三本书中找到确凿的明文说反对同性婚姻的确实太难，我会慢慢的寻找，但是摩尔门教主要关心的目标是：家庭。这也就说明了他们希望异性婚姻占有主导地位，他们希望每个人都有家庭，他们不希望家庭渐渐从人们心中消失。</p>
+<p>先说说摩尔门教是什么吧。<br>摩尔门教又叫<a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A9%8C%E5%9F%BA%E7%9D%A3%E5%BE%8C%E6%9C%9F%E8%81%96%E5%BE%92%E6%95%99%E6%9C%83" target="_blank" rel="noopener">耶稣基督后期圣徒教会</a>，一般情况下，他们都说自己是LDS（The Church of Jesus Christ of Latter-day Saints，耶稣基督后期圣徒教会）的教徒，我不知道台湾同胞和香港同胞怎么称呼自己，但是英文中，简称LDS；和基督教有很多不同，首先摩尔门教即便和基督教一样使用圣经，但是在经文中有很多不同，而且摩尔门教主要的经文还是摩尔门经；另外，基督教主张：<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94" target="_blank" rel="noopener">三位一体</a>：</p>
 <blockquote>
-<p>三一论主张，圣父、圣子、圣灵（天主教会译为圣神，东正教会和新教则译为圣灵）为同一本体、同一本质、同一属性、三个不同的位格，他们以希腊语：homoousios 来表达他们之间的关连。通俗地说，仅有一位独一的神；圣父完全是神，圣子完全是神，圣灵完全是神；圣父不是圣子，圣子不是圣灵，圣灵不是圣父。亚他拿修信经对三一论得到了比较公认的解释。<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94" target="_blank" rel="external">@三位一体·维基</a></p>
+<p>三一论主张，圣父、圣子、圣灵（天主教会译为圣神，东正教会和新教则译为圣灵）为同一本体、同一本质、同一属性、三个不同的位格，他们以希腊语：homoousios 来表达他们之间的关连。通俗地说，仅有一位独一的神；圣父完全是神，圣子完全是神，圣灵完全是神；圣父不是圣子，圣子不是圣灵，圣灵不是圣父。亚他拿修信经对三一论得到了比较公认的解释。<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94" target="_blank" rel="noopener">@三位一体·维基</a></p>
 </blockquote>
-<p>但是摩尔门教主张的是<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E7%A5%9E%E8%AB%96" target="_blank" rel="external">三神论</a>：也就是：</p>
+<p>但是摩尔门教主张的是<a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E7%A5%9E%E8%AB%96" target="_blank" rel="noopener">三神论</a>：也就是：</p>
 <blockquote>
 <p>19世纪初后期圣徒运动产生的摩门教（耶稣基督后期圣徒教会）支持三位三体，为父、子、灵是分开独立的神灵，但和谐的工作，实为三神论。<br>根据后期圣徒教会教义，天父、祂的独生子耶稣基督和圣灵，这三位之间的关系虽是分开独立的个体却是全时间和谐地行动。后期圣徒教会使用“神组”这个词而非“三位一体”这个词来形容天父、祂的儿子耶稣基督和圣灵之间的关系。这和从尼西亚信经出来的三一神论相冲突，三一神论指这三位是同一体同一本质。</p>
 </blockquote>
-<p>也许大家听得最多的是摩尔门教的一夫多妻制度吧？在LDS早期的时候的确是有支持过一夫多妻制度（也就是：polygamy，复婚制度）。在维基百科中提到了，教会的确承认了在早期历史中，三位“先知”：约瑟·斯密、杨百翰、伍惠福，的确是有超过1位以上的妻子，在教义和圣约的<a href="https://www.lds.org/scriptures/dc-testament/dc/132?lang=zhs" target="_blank" rel="external">第132章</a>中有提到：</p>
+<p>也许大家听得最多的是摩尔门教的一夫多妻制度吧？在LDS早期的时候的确是有支持过一夫多妻制度（也就是：polygamy，复婚制度）。在维基百科中提到了，教会的确承认了在早期历史中，三位“先知”：约瑟·斯密、杨百翰、伍惠福，的确是有超过1位以上的妻子，在教义和圣约的<a href="https://www.lds.org/scriptures/dc-testament/dc/132?lang=zhs" target="_blank" rel="noopener">第132章</a>中有提到：</p>
 <blockquote>
 <p>1843​年​7月​12日​，​在​伊​利​诺​，​纳府​记录​的​、​透过​先知​约瑟​•​斯密​给予​的​启示​，​关于​新​永​约​，​包括​婚约​的​永恒​性​，​以及​多妻​〔History of the Church, 5:501–507〕。​虽然​这​启示​是​1843年​记录​的​，​但​从​历史​纪录​中​可​明显​看出​，​这​启示​所​包含​的​教义​和​原则​，​自​1831年​起​，​先知​就​知道​了​。</p>
 </blockquote>
@@ -566,7 +680,7 @@
 <p>36 亚伯拉罕​被​命令​献上​他的​儿子​以撒​；​然而​，​经​上​记着​说​：​不可​杀人​。​不过​，​亚伯拉罕​没有​拒绝​，​这​就算​为​他的​义​。<br>37 亚伯拉罕​接受​了​妾​，​她们​为​他​生了​儿女​；​这​就算​为​他的​义​，​因为​她们​乃是​给​他的​，​而他​遵守​了​我的​律法​；​以撒​和​雅各​也是​一样​，​除了​命令​他们的​以外​，​没有​做​别的​事​；​因为​他们​除了​被​命令​的​事​以外​，​没有​做​别的​事​，​他们​已按​照应​许​，​进入​他们的​超升​，​坐在​宝座​上​，​不是​众​天使​，​而是​众神​。<br>38 大卫​也​接受​了​许多​妻妾​，​我​仆人​所罗门​和​摩西​也​一样​，​从​创世​以来​直到​如今​，​我​其他​许多​仆人​也是​一样​；​他们​除了​接受​不是​从​我​这里​的​那些​事情​以外​，​他们​没有​在任​何事​情​上​犯罪​。<br>39 大卫​的​妻妾​是​我​借​我​仆人​拿​单​的​手​，​和​其他​持有​此​能力​之​权钥​的​先知​给​他的​；​除了​乌利亚​和​他​妻子​一事​以外​，​他​没有​在任​何事​情​上​得罪​我​；​所以​他​从​他的​超升​摔下​来​，​得到了​他的​部分​；​他​离开​这​世界​之后​，​不能​继承​她们​，​因我​将她​们​给了​别人​，​主​说​。</p>
 </blockquote>
 <p>但是后来杨百翰也说了：“唯一变成神的人，即成为神的儿子们，都是那些进入多重婚姻的”。<br>再往后，1880年伍惠福也发表了声明，声明了：教会信众不再进入任何形式的多重婚姻，不论地点、当地风俗和法律条文为何。现在耶稣基督后期圣徒教会的会友被发现有重婚行为者会被开除教籍。从准许重婚的地区来的信徒，可能需要结束重婚的关系才能加入教会。</p>
-<p>更多的争议和不同，大家可以看看这里<a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A9%8C%E5%9F%BA%E7%9D%A3%E5%BE%8C%E6%9C%9F%E8%81%96%E5%BE%92%E6%95%99%E6%9C%83#.E8.A9.95.E8.AB.96.E5.92.8C.E7.88.AD.E8.AD.B0.E7.84.A6.E9.BB.9E" target="_blank" rel="external">@摩尔门教的评论和争议焦点·维基</a></p>
+<p>更多的争议和不同，大家可以看看这里<a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A9%8C%E5%9F%BA%E7%9D%A3%E5%BE%8C%E6%9C%9F%E8%81%96%E5%BE%92%E6%95%99%E6%9C%83#.E8.A9.95.E8.AB.96.E5.92.8C.E7.88.AD.E8.AD.B0.E7.84.A6.E9.BB.9E" target="_blank" rel="noopener">@摩尔门教的评论和争议焦点·维基</a></p>
 <p>对摩尔门教的介绍也就说到这里吧。</p>
 <p>为什么他们拒绝LGBT？<br>首先要说他们所希望的：他们希望家庭美满。<br>这也就是为什么LDS主张加入相应的法律条文来阻止和限制：</p>
 <ol>
@@ -657,11 +771,43 @@ With whole brand new starts.
 > 人的生理性别(sex)至少有7种，社会性别(gender)至少有5种，所以性别总共至少有7*5=35种，而性取向理论上至少也有35种。这样算下来，性别和性取向的组合的理论上限至少是1225。[@性别和性取向的种类远比你想象的多·知乎专栏](#性别和性取向的种类远比你想象的多)
 
 -->
-<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><h2 id="文本"><a href="#文本" class="headerlink" title="文本"></a>文本</h2><p><a href="http://www.thenewatlantis.com/publications/executive-summary-sexuality-and-gender" target="_blank" rel="external">性欲和性别-（英文）</a><br><a href="https://www.lds.org/?lang=zho" target="_blank" rel="external">摩尔门教官网</a></p>
-<h2 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h2><p><a href="https://zhuanlan.zhihu.com/p/19917907?refer=somethingabouteverything" target="_blank" rel="external">性别和性取向的种类远比你想象的多</a><br><a href="https://zhuanlan.zhihu.com/p/20111054" target="_blank" rel="external">LGBT相关问题分类整理</a>  <a href="https://www.zhihu.com/people/yuyiqi" target="_blank" rel="external">@雨亦奇</a></p>
-<h2 id="PDF"><a href="#PDF" class="headerlink" title="PDF"></a>PDF</h2><p><a href="http://old.ilga.org/Statehomophobia/ILGA_SSHR_2014_Eng.pdf" target="_blank" rel="external">ILGA-LGBT</a><br><a href="http://unitedfamilies.org/wp-content/uploads/2015/09/Sexual-Orientation.pdf" target="_blank" rel="external">性取向-Sexual-Orientation-（英文）</a></p>
-<h2 id="维基百科-百度百科"><a href="#维基百科-百度百科" class="headerlink" title="维基百科/百度百科"></a>维基百科/百度百科</h2><p><a href="https://zh.wikipedia.org/wiki/LGBT" target="_blank" rel="external">LGBT</a><br><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="external">中国同性恋史</a><br><a href="https://zh.wikipedia.org/wiki/%E5%BE%9E%E7%9C%BE%E6%95%88%E6%87%89" target="_blank" rel="external">从众效应</a><br><a href="https://zh.wikipedia.org/wiki/Portal:LGBT" target="_blank" rel="external">维基百科-LGBT首页</a><br><a href="https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80" target="_blank" rel="external">同性恋</a><br><a href="https://zh.wikipedia.org/wiki/%E5%90%84%E5%9C%B0LGBT%E6%AC%8A%E5%88%A9" target="_blank" rel="external">各地LGBT权利</a><br><a href="https://zh.wikipedia.org/wiki/LGBT%E6%8A%9A%E5%85%BB" target="_blank" rel="external">LGBT抚养</a></p>
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><h2 id="文本"><a href="#文本" class="headerlink" title="文本"></a>文本</h2><p><a href="http://www.thenewatlantis.com/publications/executive-summary-sexuality-and-gender" target="_blank" rel="noopener">性欲和性别-（英文）</a><br><a href="https://www.lds.org/?lang=zho" target="_blank" rel="noopener">摩尔门教官网</a></p>
+<h2 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h2><p><a href="https://zhuanlan.zhihu.com/p/19917907?refer=somethingabouteverything" target="_blank" rel="noopener">性别和性取向的种类远比你想象的多</a><br><a href="https://zhuanlan.zhihu.com/p/20111054" target="_blank" rel="noopener">LGBT相关问题分类整理</a>  <a href="https://www.zhihu.com/people/yuyiqi" target="_blank" rel="noopener">@雨亦奇</a></p>
+<h2 id="PDF"><a href="#PDF" class="headerlink" title="PDF"></a>PDF</h2><p><a href="http://old.ilga.org/Statehomophobia/ILGA_SSHR_2014_Eng.pdf" target="_blank" rel="noopener">ILGA-LGBT</a><br><a href="http://unitedfamilies.org/wp-content/uploads/2015/09/Sexual-Orientation.pdf" target="_blank" rel="noopener">性取向-Sexual-Orientation-（英文）</a></p>
+<h2 id="维基百科-百度百科"><a href="#维基百科-百度百科" class="headerlink" title="维基百科/百度百科"></a>维基百科/百度百科</h2><p><a href="https://zh.wikipedia.org/wiki/LGBT" target="_blank" rel="noopener">LGBT</a><br><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%90%8C%E6%80%A7%E6%88%80%E5%8F%B2" target="_blank" rel="noopener">中国同性恋史</a><br><a href="https://zh.wikipedia.org/wiki/%E5%BE%9E%E7%9C%BE%E6%95%88%E6%87%89" target="_blank" rel="noopener">从众效应</a><br><a href="https://zh.wikipedia.org/wiki/Portal:LGBT" target="_blank" rel="noopener">维基百科-LGBT首页</a><br><a href="https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80" target="_blank" rel="noopener">同性恋</a><br><a href="https://zh.wikipedia.org/wiki/%E5%90%84%E5%9C%B0LGBT%E6%AC%8A%E5%88%A9" target="_blank" rel="noopener">各地LGBT权利</a><br><a href="https://zh.wikipedia.org/wiki/LGBT%E6%8A%9A%E5%85%BB" target="_blank" rel="noopener">LGBT抚养</a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Thoughts </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> LGBT </tag>
+            
+            <tag> 宗教 </tag>
+            
+            <tag> 同性恋 </tag>
+            
+            <tag> 双性恋 </tag>
+            
+            <tag> 跨性别者 </tag>
+            
+            <tag> Gays </tag>
+            
+            <tag> Lesbians </tag>
+            
+            <tag> Transgender </tag>
+            
+            <tag> MtF </tag>
+            
+            <tag> Bisexuals </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -670,6 +816,22 @@ With whole brand new starts.
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/2eca31b9cd6615c9c7a3e5e3e128c69f.jpg" alt=""><br>如何面对自己啊。<br>原谅我的歇斯底里。</p>
 <p>抱歉。</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Neko </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 难过 </tag>
+            
+            <tag> 文字 </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -681,6 +843,26 @@ With whole brand new starts.
 <p>仅仅只是…<br>提前离开吧…？<br>以后还会见到你们吗？<br>我好害怕…<br>好害怕…</p>
 <p>真的好烦心…<br>不想待下去了…</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Neko </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 难过 </tag>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> 发泄 </tag>
+            
+            <tag> 人生 </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -688,6 +870,28 @@ With whole brand new starts.
       <url>https://neko.ayaka.moe/2016/05/02/012/</url>
       <content type="html"><![CDATA[<h1 id="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"><a href="#【该项目不是Mod开发！不是地图建造！不是服务器维护！】" class="headerlink" title="【该项目不是Mod开发！不是地图建造！不是服务器维护！】"></a>【该项目不是Mod开发！不是地图建造！不是服务器维护！】</h1><p>【不是Mod开发！】Minecraft的大型项目招人。你喜欢MC就来吧！你会Java就来吧！感兴趣的人加我好友或者Email联系我~不明白的东西我都会说清楚的。<br>[<img src="http://www.moepicx.cc/images/2016/05/02/b2b0bdb44760175a89fcf61e080571d9.jpg" alt="b2b0bdb44760175a89fcf61e080571d9.md.jpg"><br><em>不建议学业较重的小伙伴加入</em>。 和本人GitHub下integralloader repo有关系<br><a id="more"></a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Programming </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> Forge </tag>
+            
+            <tag> Minecraft Mod </tag>
+            
+            <tag> Forge API </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -699,6 +903,28 @@ With whole brand new starts.
 <p><img src="http://www.moepicx.cc/images/2017/01/20/f8bb1bb583722d663ca2babde56ecb30.png" alt=""></p>
 <p>至于内在故事嘛……</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+            <tag> logo </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -706,28 +932,110 @@ With whole brand new starts.
       <url>https://neko.ayaka.moe/2016/04/17/010/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/d53a2010e409128d7bb1b1a07b73d57c.png" alt=""><br>YouTube频道终于迎来了自主版权的这一刻。<br>这是封面~ 依然是熟悉的扁平风星球设计加上全新的图标。<br>可以欢呼下~~~</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+            <tag> YouTube频道管理 </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · V 女神·土星和她的卫星]]></title>
       <url>https://neko.ayaka.moe/2016/03/23/009/</url>
-      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/b88d14d8671826e2075fc59285bb7419.jpg" alt=""><br>第二张就是土星啦～<br>【太阳系系列壁纸：女神·土星和她的卫星】<br>土星设计花了一晚上吧…光环也是做出来不好看删掉又重做。考察了大量资料发现土星的卫星大多数颜色都和月球一样，就只放上这三颗了。土卫二也好漂亮（所以设计成蓝色的）<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>感觉第二卫星都好好看的样子～<br>（我记得土星有62颗卫星，木星有63颗的样子？）<br>希望你们能喜欢～</p>
+      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/b88d14d8671826e2075fc59285bb7419.jpg" alt=""><br>第二张就是土星啦～<br>【太阳系系列壁纸：女神·土星和她的卫星】<br>土星设计花了一晚上吧…光环也是做出来不好看删掉又重做。考察了大量资料发现土星的卫星大多数颜色都和月球一样，就只放上这三颗了。土卫二也好漂亮（所以设计成蓝色的）<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="noopener">@Nina Geometrieva</a><br>感觉第二卫星都好好看的样子～<br>（我记得土星有62颗卫星，木星有63颗的样子？）<br>希望你们能喜欢～</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · IV 我们的守护神·木星和她的卫星]]></title>
       <url>https://neko.ayaka.moe/2016/03/23/008/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/3b5aa4e3b6e23bffd5b2b9a65ea0769a.jpg" alt=""></p>
-<p>时隔三天没有发布新的太阳系系列壁纸，今天来两发。这个是第一张：<br>【太阳系系列壁纸：我们的守护神·木星和她的卫星】<br>木星设计花了我好久…不知道这样的设计你们喜不喜欢，原本是有一个大红斑的，但是贴上去之后发现效果不好就删掉了。<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>木星的卫星真的是好好看（现实世界里最爱木卫二）</p>
+<p>时隔三天没有发布新的太阳系系列壁纸，今天来两发。这个是第一张：<br>【太阳系系列壁纸：我们的守护神·木星和她的卫星】<br>木星设计花了我好久…不知道这样的设计你们喜不喜欢，原本是有一个大红斑的，但是贴上去之后发现效果不好就删掉了。<br>Inspried by <a href="https://dribbble.com/ni" target="_blank" rel="noopener">@Nina Geometrieva</a><br>木星的卫星真的是好好看（现实世界里最爱木卫二）</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · III 岩石行星]]></title>
       <url>https://neko.ayaka.moe/2016/03/19/007/</url>
-      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e609bbab8921a41984ad366fbdba9057.jpg" alt=""><br>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是水星和金星，加了点星空。<br>前两张的带星空的也制作完成了，等下发～<br>希望你们也喜欢～</p>
+      <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/e609bbab8921a41984ad366fbdba9057.jpg" alt=""><br>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="noopener">@Nina Geometrieva</a><br>这次是水星和金星，加了点星空。<br>前两张的带星空的也制作完成了，等下发～<br>希望你们也喜欢～</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -738,22 +1046,82 @@ With whole brand new starts.
 <p>火星：<br><img src="http://www.moepicx.cc/images/2017/01/20/e83c99daf05ec5f0f375ec0fbed61dcb.jpg" alt=""></p>
 <p>太阳系壁纸的手机版，<br>火星还是很好看的对不对？</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · II 火星，我们的邻居]]></title>
       <url>https://neko.ayaka.moe/2016/03/18/005/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c21d19a0e93a86abead2a691c5e03f52.jpg" alt=""></p>
-<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a><br>这次是火星和火星的火卫一、火卫二。<br>科幻想象了一下以后的移民船（个人觉得并不是很完美）</p>
+<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="noopener">@Nina Geometrieva</a><br>这次是火星和火星的火卫一、火卫二。<br>科幻想象了一下以后的移民船（个人觉得并不是很完美）</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[太阳系壁纸系列 · I 地球，我们的家]]></title>
       <url>https://neko.ayaka.moe/2016/03/17/004/</url>
       <content type="html"><![CDATA[<p><img src="http://www.moepicx.cc/images/2017/01/20/c66db2dd35ab0745cf8f43b8b3eb7b60.jpg" alt=""><br>灵感迸发。<br>这次我加水印加得很随意…<br>有谁要盗图就盗图吧</p>
-<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="external">@Nina Geometrieva</a></p>
+<p>Inspired by <a href="https://dribbble.com/ni" target="_blank" rel="noopener">@Nina Geometrieva</a></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Design </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 平面设计 </tag>
+            
+            <tag> 设计 </tag>
+            
+            <tag> UI设计 </tag>
+            
+            <tag> Design </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -784,23 +1152,45 @@ With whole brand new starts.
 <h3 id="El-Captain-都是10-11了，暴雪也不重新编译一下这个安装文件"><a href="#El-Captain-都是10-11了，暴雪也不重新编译一下这个安装文件" class="headerlink" title="El Captain 都是10.11了，暴雪也不重新编译一下这个安装文件"></a>El Captain 都是10.11了，暴雪也不重新编译一下这个安装文件</h3><p>我们自己解决一下权限问题吧www<br>打开终端（Terminal），输入以下命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">cd /Users/[你的电脑用户名]/[安装程序下级地址]</div><div class="line">/*比如你的安装程序在桌面上，你就输入：*/</div><div class="line">cd /Users/[你的电脑用户名]/Desktop</div><div class="line">/*英文翻译如下*/</div><div class="line">/*桌面 Desktop*/</div><div class="line">/*下载 Downloads*/</div><div class="line">/*文稿 Documents*/</div><div class="line">chmod +x Battle.net-Setup.app/Contents/MacOS/Battle.net\ Setup</div></pre></td></tr></table></figure></p>
 <p>现在退出终端，回到Finder打开战网安装包，你就能打开了。</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> Mac OS </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Battle.net </tag>
+            
+            <tag> 战网 </tag>
+            
+            <tag> 炉石传说 </tag>
+            
+            <tag> 魔兽世界 </tag>
+            
+            <tag> WOW </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[建站帮助（二）·插件]]></title>
       <url>https://neko.ayaka.moe/2016/02/08/002/</url>
       <content type="html"><![CDATA[<h1 id="插件列表-Hexo官方的插件列表或者GitHub上的Wiki插件列表"><a href="#插件列表-Hexo官方的插件列表或者GitHub上的Wiki插件列表" class="headerlink" title="插件列表 (Hexo官方的插件列表或者GitHub上的Wiki插件列表)"></a>插件列表 (Hexo官方的插件列表或者GitHub上的Wiki插件列表)</h1><ol>
-<li>【管理插件】Hexo Admin (<a href="https://github.com/jaredly/hexo-admin" target="_blank" rel="external">hexo-admin</a>)</li>
-<li>【管理插件】Hexo Hey (<a href="https://github.com/nihgwu/hexo-hey" target="_blank" rel="external">hexo-hey</a>)</li>
-<li>【功能插件】Search Engine (<a href="https://github.com/PaicHyperionDev/hexo-generator-search" target="_blank" rel="external">hexo-generator-search</a>)</li>
-<li>【功能插件】Hexo Aplyer (<a href="https://github.com/grzhan/hexo-tag-aplayer" target="_blank" rel="external">hexo-tag-aplayer</a>基于<a href="https://github.com/DIYgod" target="_blank" rel="external">DIYGod</a>的<a href="https://github.com/DIYgod/APlayer" target="_blank" rel="external">Aplyer</a>)</li>
-<li>【功能插件】Hexo Bilibili (<a href="https://github.com/Z4Tech/hexo-tag-bilibili" target="_blank" rel="external">hexo-tag-bilibili</a>)</li>
-<li>【功能插件】Hexo Link Broken Detector (<a href="https://github.com/sergiolepore/hexo-broken-link-checker" target="_blank" rel="external">hexo-broken-link-checker</a>)</li>
-<li>【功能插件】Hexo Imagemin (<a href="https://github.com/vseventer/hexo-imagemin" target="_blank" rel="external">hexo-imagemin</a>)</li>
-<li>【功能插件】Hexo Notify (<a href="https://github.com/hexojs/hexo-notify" target="_blank" rel="external">hexo-notify</a>)</li>
-<li>【功能插件】Hexo Xvideos (<a href="https://github.com/welksonramos/hexo-tag-xvideos" target="_blank" rel="external">hexo-tag-xvideos</a>)</li>
-<li>【辅助插件】Hexo JSON Content (<a href="https://github.com/alexbruno/hexo-generator-json-content" target="_blank" rel="external">hexo-generator-json-content</a>)</li>
-<li>【辅助插件】Hexo Cil Extra (<a href="https://github.com/greg-js/hexo-cli-extras" target="_blank" rel="external">hexo-cil-extra</a>)</li>
+<li>【管理插件】Hexo Admin (<a href="https://github.com/jaredly/hexo-admin" target="_blank" rel="noopener">hexo-admin</a>)</li>
+<li>【管理插件】Hexo Hey (<a href="https://github.com/nihgwu/hexo-hey" target="_blank" rel="noopener">hexo-hey</a>)</li>
+<li>【功能插件】Search Engine (<a href="https://github.com/PaicHyperionDev/hexo-generator-search" target="_blank" rel="noopener">hexo-generator-search</a>)</li>
+<li>【功能插件】Hexo Aplyer (<a href="https://github.com/grzhan/hexo-tag-aplayer" target="_blank" rel="noopener">hexo-tag-aplayer</a>基于<a href="https://github.com/DIYgod" target="_blank" rel="noopener">DIYGod</a>的<a href="https://github.com/DIYgod/APlayer" target="_blank" rel="noopener">Aplyer</a>)</li>
+<li>【功能插件】Hexo Bilibili (<a href="https://github.com/Z4Tech/hexo-tag-bilibili" target="_blank" rel="noopener">hexo-tag-bilibili</a>)</li>
+<li>【功能插件】Hexo Link Broken Detector (<a href="https://github.com/sergiolepore/hexo-broken-link-checker" target="_blank" rel="noopener">hexo-broken-link-checker</a>)</li>
+<li>【功能插件】Hexo Imagemin (<a href="https://github.com/vseventer/hexo-imagemin" target="_blank" rel="noopener">hexo-imagemin</a>)</li>
+<li>【功能插件】Hexo Notify (<a href="https://github.com/hexojs/hexo-notify" target="_blank" rel="noopener">hexo-notify</a>)</li>
+<li>【功能插件】Hexo Xvideos (<a href="https://github.com/welksonramos/hexo-tag-xvideos" target="_blank" rel="noopener">hexo-tag-xvideos</a>)</li>
+<li>【辅助插件】Hexo JSON Content (<a href="https://github.com/alexbruno/hexo-generator-json-content" target="_blank" rel="noopener">hexo-generator-json-content</a>)</li>
+<li>【辅助插件】Hexo Cil Extra (<a href="https://github.com/greg-js/hexo-cli-extras" target="_blank" rel="noopener">hexo-cil-extra</a>)</li>
 </ol>
 <h1 id="插件使用"><a href="#插件使用" class="headerlink" title="插件使用"></a>插件使用</h1><p>这里包含了装载的所有插件的使用方法以及配置方法。</p>
 <a id="more"></a>
@@ -814,7 +1204,7 @@ With whole brand new starts.
 <li>没有中文（可以汉化的说）</li>
 </ol>
 <h3 id="Hexo-Admin插件预览"><a href="#Hexo-Admin插件预览" class="headerlink" title="Hexo Admin插件预览"></a>Hexo Admin插件预览</h3><p><img src="http://i1.tietuku.com/9d593a8ad8110927.png" alt=""><br>在准备好使用之后（确保在之前输入了npm install hexo-admin –save，如果没有安装，Shell会报错），打开Git Shell（如果你安装了Git的话，使用Git Bash也是一样的效果），使用命令cd到你的hexo根目录。然后运行以下命令<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ hexo server -d</div><div class="line">INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.</div><div class="line">/*你会看到这样的结果*/</div></pre></td></tr></table></figure></p>
-<p>现在在你的浏览器中输入<code><a href="http://localhost:4000/admin/" target="_blank" rel="external">http://localhost:4000/admin/</a></code>来前往你的管理界面。<br>管理预览你的博客就在这个页面中进行。</p>
+<p>现在在你的浏览器中输入<code><a href="http://localhost:4000/admin/" target="_blank" rel="noopener">http://localhost:4000/admin/</a></code>来前往你的管理界面。<br>管理预览你的博客就在这个页面中进行。</p>
 <h2 id="首要插件-Hexo-Hey-hexo-hey插件"><a href="#首要插件-Hexo-Hey-hexo-hey插件" class="headerlink" title="首要插件 - Hexo Hey (hexo-hey插件)"></a>首要插件 - Hexo Hey (hexo-hey插件)</h2><p>这是另一个本地管理插件，后面在Hexo官网上找到的，用起来感觉还不错。<br>这个插件的好与不好：</p>
 <ol>
 <li>简洁明了（和Hexo Admin没什么区别）</li>
@@ -838,13 +1228,33 @@ With whole brand new starts.
 <h3 id="插件预览"><a href="#插件预览" class="headerlink" title="插件预览"></a>插件预览</h3><p><img src="http://i1.tietuku.com/c2fd8581faebea4f.png" alt=""><br>安装Search插件（如果你看过建站教程，你应该会意识到在插件安装的命令行中提到了这个插件），如果没有安装的话，打开你的Git Shell或者Git Bash，键入以下内容<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-search --save</div><div class="line">  /*请确保你安装了Search插件再进行下一步！*/</div></pre></td></tr></table></figure></p>
 <p>用你的文版编辑器打开hexo根目录下的_config.yml文件并且在最后一行添加：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div></pre></td></tr></table></figure></p>
 ]]></content>
+      
+        <categories>
+            
+            <category> GitHub Blog </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 指南 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 建站 </tag>
+            
+            <tag> GitHub Blog </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
       <title><![CDATA[建站帮助]]></title>
       <url>https://neko.ayaka.moe/2016/02/08/001/</url>
       <content type="html"><![CDATA[<p>这是我第一篇使用Hexo写的文章，使用方法详见文稿。关于Hexo的任何问题以及错误可以前往问题解答页面查看，也可以直接寻找Hexo GitHub求解。</p>
-<h1 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h1><h2 id="安装Node-js环境和Git-Desktop"><a href="#安装Node-js环境和Git-Desktop" class="headerlink" title="安装Node.js环境和Git Desktop"></a>安装Node.js环境和Git Desktop</h2><p>从<a href="https://nodejs.org/en/" target="_blank" rel="external">Node.js</a>的官网站点下载并安装。<br>从Github的官方网站下载<a href="https://desktop.github.com/" target="_blank" rel="external">GitHub Desktop</a>并安装。</p>
+<h1 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h1><h2 id="安装Node-js环境和Git-Desktop"><a href="#安装Node-js环境和Git-Desktop" class="headerlink" title="安装Node.js环境和Git Desktop"></a>安装Node.js环境和Git Desktop</h2><p>从<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a>的官网站点下载并安装。<br>从Github的官方网站下载<a href="https://desktop.github.com/" target="_blank" rel="noopener">GitHub Desktop</a>并安装。</p>
 <h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>安装好Git和Node之后，打开在桌面上（或者去开始菜单）的“Git Shell”输入以下命令。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ npm install -g hexo</div><div class="line">/*如果报错，使用taobao.org的源进行下载*/</div><div class="line">$ npm install -g cnpm --registry=https://registry.npm.taobao.org</div><div class="line">/*下面的命令行一定要运行*/</div><div class="line">$ npm install hexo --save</div></pre></td></tr></table></figure></p>
 <p>安装完成后，根据自己喜好建立目录（如I:\fanff0324\GitHub\hexo），进入Git Shell切换到该路径下I:\fanff0324\GitHub\hexo执行以下指令<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">/*切换路径的方法是*/</div><div class="line">$ cd 你的路径</div><div class="line">/*比如我的是I:\fanff0324\GitHub\hexo我可以这样切换：*/</div><div class="line">$ cd I:\fanff0324\GitHub\hexo</div></pre></td></tr></table></figure></p>
 <a id="more"></a>
@@ -854,8 +1264,28 @@ With whole brand new starts.
 <h2 id="创建本地服务器预览效果"><a href="#创建本地服务器预览效果" class="headerlink" title="创建本地服务器预览效果"></a>创建本地服务器预览效果</h2><p>继续执行以下命令</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div><div class="line">/*简洁命令是*/</div><div class="line">$ hexo s</div><div class="line">/*等待你看到这个反馈*/</div><div class="line">$ Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.</div></pre></td></tr></table></figure>
 <p>现在可以在在浏览器中输入localhost:4000查看预览效果。如果要停止服务器，按下Ctrl+C即可。</p>
-<p>以上内容来自<a href="http://wsgzao.github.io/post/hexo-guide/" target="_blank" rel="external">wsgzao</a>提供的指南。<br>更多内容请等待更新，会包括问题修复，文件管理等等。</p>
+<p>以上内容来自<a href="http://wsgzao.github.io/post/hexo-guide/" target="_blank" rel="noopener">wsgzao</a>提供的指南。<br>更多内容请等待更新，会包括问题修复，文件管理等等。</p>
 ]]></content>
+      
+        <categories>
+            
+            <category> GitHub Blog </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 指南 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 建站 </tag>
+            
+            <tag> GitHub Blog </tag>
+            
+        </tags>
+        
     </entry>
     
   
