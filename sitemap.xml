@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://neko.ayaka.moe/tests/ogptest.html</loc>
+    
+    <lastmod>2017-11-27T06:00:15.298Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://neko.ayaka.moe/tests/botlink.html</loc>
+    
+    <lastmod>2017-11-27T05:35:24.314Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://neko.ayaka.moe/tests/redirect.html</loc>
+    
+    <lastmod>2017-11-27T05:34:40.630Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://neko.ayaka.moe/specs/specs.html</loc>
     
     <lastmod>2017-11-01T17:29:17.000Z</lastmod>
@@ -16,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://neko.ayaka.moe/2017/10/03/023/</loc>
+    <loc>https://neko.ayaka.moe/2017/10/03/024/</loc>
     
     <lastmod>2017-10-02T16:15:00.000Z</lastmod>
     
