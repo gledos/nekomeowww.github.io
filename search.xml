@@ -3,9 +3,35 @@
   
     
     <entry>
+      <title><![CDATA[一个 Neko 想要讲述的故事]]></title>
+      <url>/2018/03/11/025/</url>
+      <content type="html"><![CDATA[<h1 id="第一个也是最后一个故事"><a href="#第一个也是最后一个故事" class="headerlink" title="第一个也是最后一个故事"></a>第一个也是最后一个故事</h1><p>从前有一个高高的海岸，在不远处的海面上有一个灯塔，每天晚上都会给周围的船只指南航向。<br>这是一个陆地很少海面占据几乎所有地方的世界，船只来来回回的运行着，最近的陆地是一个很高很高的海岸，紧接着是峡谷，<br>从哪个峡谷的最顶端可以看到灯塔和周围陆地的全貌，远处什么也没有，陆地上一半是枯萎的植物，一半是努力生枝发芽的树丛。</p>
+<p>一半枯萎的树木曾经尝试去浇灌他们，但是做不到救活他们，他们记录了小时候的所有记忆，可能是太沉重了，都枯萎了。<br>一半努力生长的树丛，我小心地打理他们，每次从现实回到这个世界的时候都会细心关照它们。</p>
+<p>时间过去了很久，灌木丛的花开了，冒出的是第一次看到的很漂亮的风景，花儿散发出无数的味道，无数的粒子飘散到天空。<br>这个世界属于我自己，这是我的心里世界，<br>曾经最美丽的时候我看到了五彩斑斓的情感变成了丝带，变成丝带之后又变成像是极光一样的东西流开，<br>那是五彩斑斓的时候，只见过 2 次呢。<br>一次是小时候，一次是那年。</p>
+<p>这个故事从这里说起，<br>那天不知道为什么，天刮起了大风，原本多云的天空变成了漆黑漆黑的颜色。<br>我意识到这不对劲，开始往自己的避难所逃离，并且问询我的小伙伴请求天气控制，<br>可是失败了。</p>
+<p>那次灾难，是风暴和地震所引起的洪水和海啸。</p>
+<p>避难所被摧毁了，我泡在水里不知道应该做什么…<br>一直到现在…</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Letter </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Farewell </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[网易云音乐 本地API指南]]></title>
       <url>/2017/10/02/024/</url>
-      <content type="html"><![CDATA[<h1 id="网易云音乐-history-本地API指南"><a href="#网易云音乐-history-本地API指南" class="headerlink" title="网易云音乐 history 本地API指南"></a>网易云音乐 history 本地API指南</h1><p>这是一个在项目代码文件中的迷你文档，用于快速帮助开发者定位history文件的键值，详细的文档可以到GitHub的repo上查看w</p>
+      <content type="html"><![CDATA[<h1 id="网易云音乐-history-本地API指南"><a href="#网易云音乐-history-本地API指南" class="headerlink" title="网易云音乐 history 本地API指南"></a>网易云音乐 history 本地API指南</h1><p>这是一个在项目代码文件中的迷你文档，用于快速帮助开发者定位history文件的键值，详细的文档可以到GitHub的repo上查看www</p>
  <a id="more"></a>
 <ul>
 <li>fm                                私人FM的fm判定值，true即为此项来自私人FM，不存在即不来自私人FM</li>
@@ -460,9 +486,9 @@
             
             <tag> Elite Dangerous </tag>
             
-            <tag> Elite Dangerous Horizon </tag>
-            
             <tag> 精英危险 </tag>
+            
+            <tag> Elite Dangerous Horizon </tag>
             
             <tag> The Formidine Rift </tag>
             
@@ -626,7 +652,7 @@
     </entry>
     
     <entry>
-      <title><![CDATA[就个人对LGBT的观点]]></title>
+      <title><![CDATA[就个人对 LGBT 的观点]]></title>
       <url>/2016/09/23/015/</url>
       <content type="html"><![CDATA[<h1 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h1><blockquote>
 <p>“性别平等必定会带来性别模糊。”</p>
@@ -866,7 +892,7 @@ With whole brand new starts.
     </entry>
     
     <entry>
-      <title><![CDATA[新设计的Logo =￣ω￣=]]></title>
+      <title><![CDATA[新设计的 Logo =￣ω￣=]]></title>
       <url>/2016/04/16/011/</url>
       <content type="html"><![CDATA[<p><img src="https://i.imgur.com/3bC9gSM.png" alt=""><br>原版蓝色。<br>Original Blue</p>
 <a id="more"></a>
@@ -899,7 +925,7 @@ With whole brand new starts.
     </entry>
     
     <entry>
-      <title><![CDATA[YouTube的新Banner]]></title>
+      <title><![CDATA[YouTube 的新 Banner]]></title>
       <url>/2016/04/16/010/</url>
       <content type="html"><![CDATA[<p><img src="https://i.imgur.com/wUWp4Vp.png" alt=""><br>YouTube频道终于迎来了自主版权的这一刻。<br>这是封面~ 依然是熟悉的扁平风星球设计加上全新的图标。<br>可以欢呼下~~~</p>
 ]]></content>
@@ -1096,7 +1122,7 @@ With whole brand new starts.
     </entry>
     
     <entry>
-      <title><![CDATA[Mac OS版 Battle.Net安装（战网客户端）]]></title>
+      <title><![CDATA[Mac OS 版 Battle.Net 安装（战网客户端）]]></title>
       <url>/2016/02/22/003/</url>
       <content type="html"><![CDATA[<h1 id="战网安装错误"><a href="#战网安装错误" class="headerlink" title="战网安装错误"></a>战网安装错误</h1><p>如果你按照普通的安装思路：</p>
 <ol>
@@ -1283,7 +1309,8 @@ With whole brand new starts.
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>是笨猫。</p>
 <p>过去的 12017 年…<br>好累呢。<br>好累呢。<br>好累呢。</p>
-<p>12018 年希望…<br>尽力活下去…陪着你。<br>不希望离开你了呢。</p>
+<p>12018 年什么希望也没有…<br>我已经离开了呢，离开这个世界了。<br>前往了那个所谓的一直希望去到的地方 – 世界的另一端</p>
+<p>各位，再见了呢</p>
 <p>如果有时间可以关注一下 Neko 的 Twitter 喔。<br>Neko 的 Twitter 是这个w</p>
 <p><a href="https://twitter.com/ayakaneko" class="twitter-follow-button" data-size="large" data-show-count="false" target="_blank" rel="noopener">Follow @ayakaneko</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p><a class="twitter-timeline" href="https://twitter.com/ayakaneko" target="_blank" rel="noopener">Tweets by Ayaka Neko</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
@@ -1300,19 +1327,6 @@ With whole brand new starts.
       <title><![CDATA[留言板]]></title>
       <url>/comments/index.html</url>
       <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[所有标签]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>/tests/ogptest.html</url>
-      <content type="html"><![CDATA[<html prefix="og: http://ogp.me/ns#"><br>  <head><br>    <title>OGP TEST - CloudMusic</title><br>    <meta property="og:title" content="That Alone Feeling"><br>    <meta property="og:type" content="music.album"><br>    <meta property="og:url" content="http://music.163.com/album/?id=36849038"><br>    <meta property="og:image" content="http://p3.music.126.net/xFssArg1pX2jy16nICd44w==/109951163068691120.jpg?param=500y500"><br>    <meta property="og:description" content="网易云音乐 - That Alone Feeling by Xeuphoria"><br>  </head><br></html>
-]]></content>
     </entry>
     
     <entry>
@@ -1404,6 +1418,19 @@ With whole brand new starts.
 </ul>
 <p>-</p>
 <h2 id="Option"><a href="#Option" class="headerlink" title="Option"></a>Option</h2><h3 id="NA-网卡"><a href="#NA-网卡" class="headerlink" title="NA - 网卡"></a>NA - 网卡</h3><h3 id="AP-声卡"><a href="#AP-声卡" class="headerlink" title="AP - 声卡"></a>AP - 声卡</h3><h3 id="RGB-光污染"><a href="#RGB-光污染" class="headerlink" title="RGB - 光污染"></a>RGB - 光污染</h3>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[所有标签]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>/tests/ogptest.html</url>
+      <content type="html"><![CDATA[<html prefix="og: http://ogp.me/ns#"><br>  <head><br>    <title>OGP TEST - CloudMusic</title><br>    <meta property="og:title" content="That Alone Feeling"><br>    <meta property="og:type" content="music.album"><br>    <meta property="og:url" content="http://music.163.com/album/?id=36849038"><br>    <meta property="og:image" content="http://p3.music.126.net/xFssArg1pX2jy16nICd44w==/109951163068691120.jpg?param=500y500"><br>    <meta property="og:description" content="网易云音乐 - That Alone Feeling by Xeuphoria"><br>  </head><br></html>
+]]></content>
     </entry>
     
   
