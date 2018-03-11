@@ -10,7 +10,7 @@
 <p>时间过去了很久，灌木丛的花开了，冒出的是第一次看到的很漂亮的风景，花儿散发出无数的味道，无数的粒子飘散到天空。<br>这个世界属于我自己，这是我的心里世界，<br>曾经最美丽的时候我看到了五彩斑斓的情感变成了丝带，变成丝带之后又变成像是极光一样的东西流开，<br>那是五彩斑斓的时候，只见过 2 次呢。<br>一次是小时候，一次是那年。</p>
 <p>这个故事从这里说起，<br>那天不知道为什么，天刮起了大风，原本多云的天空变成了漆黑漆黑的颜色。<br>我意识到这不对劲，开始往自己的避难所逃离，并且问询我的小伙伴请求天气控制，<br>可是失败了。</p>
 <p>那次灾难，是风暴和地震所引起的洪水和海啸。</p>
-<p>避难所被摧毁了，我泡在水里不知道应该做什么…<br>一直到现在…</p>
+<p>避难所被摧毁了，我泡在水里不知道应该做什么…<br>一直到现在…<br><a id="more"></a></p>
 ]]></content>
       
         <categories>
@@ -852,9 +852,9 @@ With whole brand new starts.
         
         <tags>
             
-            <tag> 难过 </tag>
-            
             <tag> 文字 </tag>
+            
+            <tag> 难过 </tag>
             
         </tags>
         
@@ -1421,16 +1421,16 @@ With whole brand new starts.
     </entry>
     
     <entry>
+      <title><![CDATA[所有标签]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title></title>
       <url>/tests/ogptest.html</url>
       <content type="html"><![CDATA[<html prefix="og: http://ogp.me/ns#"><br>  <head><br>    <title>OGP TEST - CloudMusic</title><br>    <meta property="og:title" content="That Alone Feeling"><br>    <meta property="og:type" content="music.album"><br>    <meta property="og:url" content="http://music.163.com/album/?id=36849038"><br>    <meta property="og:image" content="http://p3.music.126.net/xFssArg1pX2jy16nICd44w==/109951163068691120.jpg?param=500y500"><br>    <meta property="og:description" content="网易云音乐 - That Alone Feeling by Xeuphoria"><br>  </head><br></html>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[所有标签]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
     </entry>
     
   
