@@ -959,9 +959,9 @@
         
         <tags>
             
-            <tag> 难过 </tag>
-            
             <tag> 文字 </tag>
+            
+            <tag> 难过 </tag>
             
         </tags>
         
@@ -1412,6 +1412,12 @@
     </entry>
     
     <entry>
+      <title><![CDATA[分类]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Neko 是什么？]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>是笨猫。</p>
@@ -1422,12 +1428,6 @@
 <p><a href="https://twitter.com/ayakaneko" class="twitter-follow-button" data-size="large" data-show-count="false" target="_blank" rel="noopener">Follow @ayakaneko</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p><a class="twitter-timeline" href="https://twitter.com/ayakaneko" target="_blank" rel="noopener">Tweets by Ayaka Neko</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[分类]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>
